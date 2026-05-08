@@ -1,10 +1,10 @@
 [
   {
     "updates": [
-      "製品版（インストーラ版）でVOICEVOXの音声が再生されない問題を修正",
-      "製品版で字幕の画像（テクスチャ）が表示されない問題を修正",
-      "アプリ内ディレクトリ名の整合性を確保（GrinekoVideoMakerに統一）",
-      "VOICEVOXエンジンの自動探索ロジックを強化"
+      { "type": "fix", "content": "製品版（インストーラ版）でVOICEVOXの音声が再生されない問題を修正" },
+      { "type": "fix", "content": "製品版で字幕の画像（テクスチャ）が表示されない問題を修正" },
+      { "type": "improvement", "content": "アプリ内ディレクトリ名の整合性を確保（GrinekoVideoMakerに統一）" },
+      { "type": "improvement", "content": "VOICEVOXエンジンの自動探索ロジックを強化" }
     ],
     "version": "0.0.225",
     "releaseDate": "2026-05-07"
