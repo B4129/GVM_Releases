@@ -1,5 +1,19 @@
 [
   {
+    "version": "0.0.230",
+    "updates": [
+      {
+        "type": "feature",
+        "content": "プロジェクト選択画面（タイトル画面）にウィンドウの最小化・最大化・閉じるボタンを追加しました。"
+      },
+      {
+        "type": "fix",
+        "content": "VOICEVOXの自動ダウンロード機能において、Windowsのパス長制限などが原因で展開時にエラーが発生する問題を修正しました。"
+      }
+    ],
+    "releaseDate": "2026-05-09"
+  },
+  {
     "updates": [
       {
         "type": "chore",
