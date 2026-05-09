@@ -1,5 +1,4 @@
 {
-  "releaseDate": "2026-05-09",
   "updates": [
     {
       "type": "feature",
@@ -34,5 +33,6 @@
       "content": "ONNX RuntimeをNode版からWeb(WASM)版に切り替え、バンドルサイズを大幅に削減"
     }
   ],
+  "releaseDate": "2026-05-09",
   "version": "0.0.226"
 }
