@@ -1,7 +1,7 @@
 [
   {
     "version": "0.0.234",
-    "releaseDate": "2026-05-09",
+    "releaseDate": "2026-05-10",
     "updates": [
       {
         "type": "fix",
@@ -43,7 +43,7 @@
   },
   {
     "version": "0.0.233",
-    "releaseDate": "2026-05-09",
+    "releaseDate": "2026-05-10",
     "updates": [
       {
         "type": "chore",
@@ -92,7 +92,7 @@
     ]
   },
   {
-    "releaseDate": "2026-05-09",
+    "releaseDate": "2026-05-10",
     "updates": [
       {
         "type": "improvement",
@@ -113,7 +113,7 @@
       }
     ],
     "version": "0.0.231",
-    "releaseDate": "2026-05-09"
+    "releaseDate": "2026-05-10"
   },
   {
     "version": "0.0.230",
@@ -127,7 +127,7 @@
         "content": "VOICEVOXの自動ダウンロード機能において、Windowsのパス長制限などが原因で展開時にエラーが発生する問題を修正しました。"
       }
     ],
-    "releaseDate": "2026-05-09"
+    "releaseDate": "2026-05-10"
   },
   {
     "updates": [
@@ -137,7 +137,7 @@
       }
     ],
     "version": "0.0.229",
-    "releaseDate": "2026-05-09"
+    "releaseDate": "2026-05-10"
   },
   {
     "updates": [
@@ -146,12 +146,12 @@
         "content": "字幕設定プレビューのサンプルテキストを「サンプル」に変更し、UIの検証を行いました。"
       }
     ],
-    "releaseDate": "2026-05-09",
+    "releaseDate": "2026-05-10",
     "version": "0.0.228"
   },
   {
     "version": "0.0.227",
-    "releaseDate": "2026-05-09",
+    "releaseDate": "2026-05-10",
     "updates": [
       {
         "type": "feature",
@@ -173,7 +173,7 @@
   },
   {
     "version": "0.0.226",
-    "releaseDate": "2026-05-09",
+    "releaseDate": "2026-05-10",
     "updates": [
       {
         "type": "feature",
