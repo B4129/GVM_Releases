@@ -1,14 +1,10 @@
 {
   "updates": [
     {
-      "type": "chore",
-      "content": "GitHub Actions のビルドパイプラインにキャッシュ機構（electron-builder, FFmpeg）を導入し、ビルド時間を大幅に短縮しました。"
-    },
-    {
       "type": "improvement",
       "content": "字幕設定プレビューのサンプルテキストを「サンプル」に変更し、UIの検証を行いました。"
     }
   ],
-  "version": "0.0.228",
-  "releaseDate": "2026-05-09"
+  "releaseDate": "2026-05-09",
+  "version": "0.0.228"
 }
