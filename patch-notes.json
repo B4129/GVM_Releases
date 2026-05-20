@@ -3,6 +3,10 @@
     "releaseDate": "2026-05-20",
     "updates": [
       {
+        "type": "feature",
+        "content": "字幕の見た目を装飾できる「境界線外シャドウ（Outer Composite Shadow）」機能を追加しました。"
+      },
+      {
         "type": "fix",
         "content": "プレビューと書き出しの描画経路を整理し、立ち絵・字幕・シーク時の表示と書き出し準備の進行を改善しました。"
       },
@@ -101,6 +105,10 @@
       {
         "type": "improvement",
         "content": "クリップ数が多いプロジェクトでも、プレビュー再生中の描画対象を効率よく探せるようにし、再生時の負荷を軽減しました。"
+      },
+      {
+        "type": "improvement",
+        "content": "立ち絵（TFTカード）プレビュー時の描画間引き処理を導入し、GPUへの負荷を大幅に低減しました。"
       },
       {
         "type": "improvement",
