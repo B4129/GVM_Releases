@@ -1,0 +1,200 @@
+[
+  {
+    "id": "sfx-8bit-damage",
+    "name": "damage.mp3",
+    "category": "8bit",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/8bit/damage.mp3"
+  },
+  {
+    "id": "sfx-book-1",
+    "name": "1.mp3",
+    "category": "book",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/book/1.mp3"
+  },
+  {
+    "id": "sfx-book-2",
+    "name": "2.mp3",
+    "category": "book",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/book/2.mp3"
+  },
+  {
+    "id": "sfx-book-3",
+    "name": "3.mp3",
+    "category": "book",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/book/3.mp3"
+  },
+  {
+    "id": "sfx-bound-1stable_audio_3_01203_",
+    "name": "1stable_audio_3_01203_.mp3",
+    "category": "bound",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/bound/1stable_audio_3_01203_.mp3"
+  },
+  {
+    "id": "sfx-click-1",
+    "name": "1.mp3",
+    "category": "click",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/click/1.mp3"
+  },
+  {
+    "id": "sfx-click-2",
+    "name": "2.mp3",
+    "category": "click",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/click/2.mp3"
+  },
+  {
+    "id": "sfx-click-3",
+    "name": "3.mp3",
+    "category": "click",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/click/3.mp3"
+  },
+  {
+    "id": "sfx-click-4",
+    "name": "4.mp3",
+    "category": "click",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/click/4.mp3"
+  },
+  {
+    "id": "sfx-coin-1",
+    "name": "1.mp3",
+    "category": "coin",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/coin/1.mp3"
+  },
+  {
+    "id": "sfx-door-1",
+    "name": "1.mp3",
+    "category": "door",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/door/1.mp3"
+  },
+  {
+    "id": "sfx-fanfare-1stable_audio_3_01586_",
+    "name": "1stable_audio_3_01586_.mp3",
+    "category": "fanfare",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/fanfare/1stable_audio_3_01586_.mp3"
+  },
+  {
+    "id": "sfx-handclap-1",
+    "name": "1.mp3",
+    "category": "handclap",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/handclap/1.mp3"
+  },
+  {
+    "id": "sfx-hit-1",
+    "name": "1.mp3",
+    "category": "hit",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/hit/1.mp3"
+  },
+  {
+    "id": "sfx-popup-1",
+    "name": "1.mp3",
+    "category": "popup",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/popup/1.mp3"
+  },
+  {
+    "id": "sfx-popup-10",
+    "name": "10.mp3",
+    "category": "popup",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/popup/10.mp3"
+  },
+  {
+    "id": "sfx-popup-2",
+    "name": "2.mp3",
+    "category": "popup",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/popup/2.mp3"
+  },
+  {
+    "id": "sfx-popup-3",
+    "name": "3.mp3",
+    "category": "popup",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/popup/3.mp3"
+  },
+  {
+    "id": "sfx-popup-4",
+    "name": "4.mp3",
+    "category": "popup",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/popup/4.mp3"
+  },
+  {
+    "id": "sfx-popup-5",
+    "name": "5.mp3",
+    "category": "popup",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/popup/5.mp3"
+  },
+  {
+    "id": "sfx-popup-6",
+    "name": "6.mp3",
+    "category": "popup",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/popup/6.mp3"
+  },
+  {
+    "id": "sfx-popup-7",
+    "name": "7.mp3",
+    "category": "popup",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/popup/7.mp3"
+  },
+  {
+    "id": "sfx-popup-8",
+    "name": "8.mp3",
+    "category": "popup",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/popup/8.mp3"
+  },
+  {
+    "id": "sfx-popup-9",
+    "name": "9.mp3",
+    "category": "popup",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/popup/9.mp3"
+  },
+  {
+    "id": "sfx-scene-1",
+    "name": "1.mp3",
+    "category": "scene",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/scene/1.mp3"
+  },
+  {
+    "id": "sfx-scene-2",
+    "name": "2.mp3",
+    "category": "scene",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/scene/2.mp3"
+  },
+  {
+    "id": "sfx-taiko-1",
+    "name": "1.mp3",
+    "category": "taiko",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/taiko/1.mp3"
+  },
+  {
+    "id": "sfx-taiko-2",
+    "name": "2.mp3",
+    "category": "taiko",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/taiko/2.mp3"
+  },
+  {
+    "id": "sfx-typing-1",
+    "name": "1.mp3",
+    "category": "typing",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/typing/1.mp3"
+  },
+  {
+    "id": "sfx-typing-2",
+    "name": "2.mp3",
+    "category": "typing",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/typing/2.mp3"
+  },
+  {
+    "id": "sfx-typing-3",
+    "name": "3.mp3",
+    "category": "typing",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/typing/3.mp3"
+  },
+  {
+    "id": "sfx-typing-4",
+    "name": "4.mp3",
+    "category": "typing",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/typing/4.mp3"
+  },
+  {
+    "id": "sfx-whoosh-1",
+    "name": "1.mp3",
+    "category": "whoosh",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/whoosh/1.mp3"
+  }
+]
