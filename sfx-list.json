@@ -1,210 +1,210 @@
 [
   {
-    "id": "sfx-_______-1",
+    "id": "sfx-37ee792cec2236fd0c0d171c35ab7afd",
     "name": "1.mp3",
     "category": "クリック・選択",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E9%81%B8%E6%8A%9E/1.mp3"
   },
   {
-    "id": "sfx-_______-2",
+    "id": "sfx-b1767fd7d4a8c5192da48d0981bbaa58",
     "name": "2.mp3",
     "category": "クリック・選択",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E9%81%B8%E6%8A%9E/2.mp3"
   },
   {
-    "id": "sfx-_______-3",
+    "id": "sfx-4a4893ff56730399409c8f01cf97b0ef",
     "name": "3.mp3",
     "category": "クリック・選択",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E9%81%B8%E6%8A%9E/3.mp3"
   },
   {
-    "id": "sfx-_______-4",
+    "id": "sfx-74d78b4db3a388c244dbd3e0504a4b2b",
     "name": "4.mp3",
     "category": "クリック・選択",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E9%81%B8%E6%8A%9E/4.mp3"
   },
   {
-    "id": "sfx-_____8bit-1",
+    "id": "sfx-96561c971d874318c891eaacc47e4cda",
     "name": "1.mp3",
     "category": "ゲーム音・8bit",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%B2%E3%83%BC%E3%83%A0%E9%9F%B3%E3%83%BB8bit/1.mp3"
   },
   {
-    "id": "sfx-_______-1",
+    "id": "sfx-25f4c8b974f4d09f66eb44da435dd82c",
     "name": "1.mp3",
     "category": "コイン・決定音",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%BB%E6%B1%BA%E5%AE%9A%E9%9F%B3/1.mp3"
   },
   {
-    "id": "sfx-___________-1",
+    "id": "sfx-6112ffe7a90782187b76d8449fb8ef51",
     "name": "1.mp3",
     "category": "タイピング・キーボード",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/1.mp3"
   },
   {
-    "id": "sfx-___________-2",
+    "id": "sfx-d21f30f019f62f1973291a14b0cc0075",
     "name": "2.mp3",
     "category": "タイピング・キーボード",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/2.mp3"
   },
   {
-    "id": "sfx-___________-3",
+    "id": "sfx-6ad6714121cec810fd38df26ec938642",
     "name": "3.mp3",
     "category": "タイピング・キーボード",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/3.mp3"
   },
   {
-    "id": "sfx-___________-4",
+    "id": "sfx-009d2dc1a7c81d060d491fb8c7102b09",
     "name": "4.mp3",
     "category": "タイピング・キーボード",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/4.mp3"
   },
   {
-    "id": "sfx-____-1",
+    "id": "sfx-6fa366e8584b2c0f8b1e203f8a86197f",
     "name": "1.mp3",
     "category": "ドア・扉",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%89%E3%82%A2%E3%83%BB%E6%89%89/1.mp3"
   },
   {
-    "id": "sfx-________-1",
+    "id": "sfx-d4727eaee47781e8dddc78fa0e9032d4",
     "name": "1.mp3",
     "category": "ノック・木を叩く",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%8E%E3%83%83%E3%82%AF%E3%83%BB%E6%9C%A8%E3%82%92%E5%8F%A9%E3%81%8F/1.mp3"
   },
   {
-    "id": "sfx-_______-1",
+    "id": "sfx-dec81cc60f0b8aa1786e329db86ba5ea",
     "name": "1.mp3",
     "category": "ファンファーレ",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC/1.mp3"
   },
   {
-    "id": "sfx-_________-1",
+    "id": "sfx-17ccbdc96c1cb4b150c71be3218bba23",
     "name": "1.mp3",
     "category": "ポップアップ・出現",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/1.mp3"
   },
   {
-    "id": "sfx-_________-2",
+    "id": "sfx-b9cad75ca49b58c1c498db1e45fe9613",
     "name": "2.mp3",
     "category": "ポップアップ・出現",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/2.mp3"
   },
   {
-    "id": "sfx-_________-3",
+    "id": "sfx-2ef028bdfe820828ec386cc32866e14c",
     "name": "3.mp3",
     "category": "ポップアップ・出現",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/3.mp3"
   },
   {
-    "id": "sfx-_________-4",
+    "id": "sfx-dcb60bce194ce9818d61fa7baae082e5",
     "name": "4.mp3",
     "category": "ポップアップ・出現",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/4.mp3"
   },
   {
-    "id": "sfx-_________-5",
+    "id": "sfx-0488d0687bc956434eed82cff81b766e",
     "name": "5.mp3",
     "category": "ポップアップ・出現",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/5.mp3"
   },
   {
-    "id": "sfx-_________-6",
+    "id": "sfx-3be87407a1e1c95fe19cf1ac43683f45",
     "name": "6.mp3",
     "category": "ポップアップ・出現",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/6.mp3"
   },
   {
-    "id": "sfx-_________-7",
+    "id": "sfx-bc7d16378453ed65c82828f5e64578ea",
     "name": "7.mp3",
     "category": "ポップアップ・出現",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/7.mp3"
   },
   {
-    "id": "sfx-_________-8",
+    "id": "sfx-5116e3b73364a837e0227ee61a231f07",
     "name": "8.mp3",
     "category": "ポップアップ・出現",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/8.mp3"
   },
   {
-    "id": "sfx-_________-9",
+    "id": "sfx-91f65088550cd749d6e1164a9d6377f5",
     "name": "9.mp3",
     "category": "ポップアップ・出現",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/9.mp3"
   },
   {
-    "id": "sfx-_________-10",
+    "id": "sfx-c7e01d00fbebfdfe445859d34633d786",
     "name": "10.mp3",
     "category": "ポップアップ・出現",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/10.mp3"
   },
   {
-    "id": "sfx-__________-1",
+    "id": "sfx-2593499d2fcc6be376f3dc9ed655e489",
     "name": "1.mp3",
     "category": "画面切り替え・シーン",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E7%94%BB%E9%9D%A2%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%B3/1.mp3"
   },
   {
-    "id": "sfx-__________-2",
+    "id": "sfx-fa1a8337a88842510546852d4ed2a3e6",
     "name": "2.mp3",
     "category": "画面切り替え・シーン",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E7%94%BB%E9%9D%A2%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%B3/2.mp3"
   },
   {
-    "id": "sfx-______-1",
+    "id": "sfx-6738de2866a64ab06af01a1472dc77b5",
     "name": "1.mp3",
     "category": "銃・リロード",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%8A%83%E3%83%BB%E3%83%AA%E3%83%AD%E3%83%BC%E3%83%89/1.mp3"
   },
   {
-    "id": "sfx-______-1",
+    "id": "sfx-d3345c844aabed393d911ced2e5c8169",
     "name": "1.mp3",
     "category": "太鼓・ドラム",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E5%A4%AA%E9%BC%93%E3%83%BB%E3%83%89%E3%83%A9%E3%83%A0/1.mp3"
   },
   {
-    "id": "sfx-______-2",
+    "id": "sfx-78a1c9ac1b14ef7b8d3729fe12573163",
     "name": "2.mp3",
     "category": "太鼓・ドラム",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E5%A4%AA%E9%BC%93%E3%83%BB%E3%83%89%E3%83%A9%E3%83%A0/2.mp3"
   },
   {
-    "id": "sfx-______-1",
+    "id": "sfx-03286105e27f9bccaa68a1c10cff9dcf",
     "name": "1.mp3",
     "category": "打撃・ヒット",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%89%93%E6%92%83%E3%83%BB%E3%83%92%E3%83%83%E3%83%88/1.mp3"
   },
   {
-    "id": "sfx-________-1",
+    "id": "sfx-c0b3d227331fb9c711f9270c476a9ee5",
     "name": "1.mp3",
     "category": "跳ねる・バウンド",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E8%B7%B3%E3%81%AD%E3%82%8B%E3%83%BB%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89/1.mp3"
   },
   {
-    "id": "sfx-______-1",
+    "id": "sfx-fb4e261119be5aebcb96124311aaea7b",
     "name": "1.mp3",
     "category": "拍手・手拍子",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%8B%8D%E6%89%8B%E3%83%BB%E6%89%8B%E6%8B%8D%E5%AD%90/1.mp3"
   },
   {
-    "id": "sfx-_________-1",
+    "id": "sfx-cc145b622c0db8fa1e0dc8602a51bb4d",
     "name": "1.mp3",
     "category": "風切り音・スイング",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%A2%A8%E5%88%87%E3%82%8A%E9%9F%B3%E3%83%BB%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0/1.mp3"
   },
   {
-    "id": "sfx-___-1",
+    "id": "sfx-05dc2b525c3d59ea1e47a76d0f004ca5",
     "name": "1.mp3",
     "category": "本・紙",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%9C%AC%E3%83%BB%E7%B4%99/1.mp3"
   },
   {
-    "id": "sfx-___-2",
+    "id": "sfx-5f6a1f67bb6195604c1f9b94d2dcfab9",
     "name": "2.mp3",
     "category": "本・紙",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%9C%AC%E3%83%BB%E7%B4%99/2.mp3"
   },
   {
-    "id": "sfx-___-3",
+    "id": "sfx-421b3c7c4ccded78d1272c376a7ebf7d",
     "name": "3.mp3",
     "category": "本・紙",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%9C%AC%E3%83%BB%E7%B4%99/3.mp3"

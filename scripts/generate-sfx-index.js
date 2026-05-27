@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 
 const sfxDir = path.join(__dirname, '../sfx');
 const outputFile = path.join(__dirname, '../sfx-list.json');
@@ -29,7 +30,7 @@ for (const category of categories) {
     });
 
     for (const file of files) {
-        const id = `sfx-${category}-${path.basename(file, path.extname(file))}`.replace(/[^a-zA-Z0-9-_]/g, '_');
+        const id = 'sfx-' + crypto.createHash('md5').update(`${category}-${file}`).digest('hex');
         const encodedCategory = encodeURIComponent(category);
         const encodedFile = encodeURIComponent(file);
         sfxList.push({
