@@ -12,6 +12,8 @@ if (!fs.existsSync(sfxDir)) {
 const categories = fs.readdirSync(sfxDir).filter(f => {
     return fs.statSync(path.join(sfxDir, f)).isDirectory();
 });
+// カテゴリ名を日本語の辞書順（50音順）にソート
+categories.sort((a, b) => a.localeCompare(b, 'ja'));
 
 const sfxList = [];
 
@@ -20,6 +22,10 @@ for (const category of categories) {
     const files = fs.readdirSync(catPath).filter(f => {
         const ext = path.extname(f).toLowerCase();
         return ext === '.mp3' || ext === '.wav' || ext === '.ogg';
+    });
+    // ファイル名を数値順にナチュラルソート (1 -> 2 -> 10)
+    files.sort((a, b) => {
+        return a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' });
     });
 
     for (const file of files) {
