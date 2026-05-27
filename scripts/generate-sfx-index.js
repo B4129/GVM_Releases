@@ -24,11 +24,13 @@ for (const category of categories) {
 
     for (const file of files) {
         const id = `sfx-${category}-${path.basename(file, path.extname(file))}`.replace(/[^a-zA-Z0-9-_]/g, '_');
+        const encodedCategory = encodeURIComponent(category);
+        const encodedFile = encodeURIComponent(file);
         sfxList.push({
             id,
             name: file,
             category,
-            url: `https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/${category}/${file}`
+            url: `https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/${encodedCategory}/${encodedFile}`
         });
     }
 }
