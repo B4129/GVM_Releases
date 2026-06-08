@@ -1,5 +1,15 @@
 [
   {
+    "releaseDate": "2026-06-08",
+    "updates": [
+      {
+        "type": "improvement",
+        "content": "プレビュー表示の負荷を軽減しました"
+      }
+    ],
+    "version": "0.56.1"
+  },
+  {
     "releaseDate": "2026-06-06",
     "updates": [
       {
