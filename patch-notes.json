@@ -1,5 +1,27 @@
 [
   {
+    "releaseDate": "2026-06-12",
+    "updates": [
+      {
+        "type": "fix",
+        "content": "プレビュー映像が小さく表示される問題を修正しました"
+      },
+      {
+        "type": "improvement",
+        "content": "プレビュー画面の高速再生時のパフォーマンスを改善しました"
+      },
+      {
+        "type": "improvement",
+        "content": "リアルタイム字幕補助の日本語候補を改善しました"
+      },
+      {
+        "type": "fix",
+        "content": "プレビュー再生時の画面チラつきと操作アニメーションの不具合を修正"
+      }
+    ],
+    "version": "0.56.2"
+  },
+  {
     "releaseDate": "2026-06-08",
     "updates": [
       {
