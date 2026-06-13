@@ -79,6 +79,88 @@
         "content": "設定画面の項目整理、簡易モード切り替え、項目検索とスクロール・ハイライト表示を追加しました。"
       }
     ],
+    "version": "0.57.0"
+  },
+  {
+    "releaseDate": "2026-06-13",
+    "updates": [
+      {
+        "type": "feature",
+        "content": "AIで反映した編集履歴を確認できるようにしました"
+      },
+      {
+        "type": "feature",
+        "content": "クイックツールから下書き候補を分析できるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "試合録画の設定と取り込み通知を追加しました"
+      },
+      {
+        "type": "feature",
+        "content": "未取り込みの試合録画を設定から取り込めるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "書き出しに配信先プリセットを追加しました"
+      },
+      {
+        "type": "feature",
+        "content": "フィラー語のカット候補を確認できるようになりました"
+      },
+      {
+        "type": "improvement",
+        "content": "AI編集提案の確認画面を見比べやすくしました"
+      },
+      {
+        "type": "improvement",
+        "content": "AIクイック操作の対象範囲を選べるようにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "BGMが声に合わせて自動で下がりやすくなりました"
+      },
+      {
+        "type": "improvement",
+        "content": "外部録画の試合イベント同期を改善しました"
+      },
+      {
+        "type": "improvement",
+        "content": "カードの準備時間を短縮しました"
+      },
+      {
+        "type": "improvement",
+        "content": "カード更新中も前の表示を保つようにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "デザイン編集の複数選択と整列を使いやすくしました"
+      },
+      {
+        "type": "improvement",
+        "content": "ゲーム別データ連携の土台を整えました"
+      },
+      {
+        "type": "improvement",
+        "content": "試合イベントを編集データとして保存できるようにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "追従オーバーレイの解析速度と動きを改善しました"
+      },
+      {
+        "type": "improvement",
+        "content": "ドラッグ中のプレビュー追従を改善しました"
+      },
+      {
+        "type": "improvement",
+        "content": "台本取り込みの形式判別と話者確認を改善しました"
+      },
+      {
+        "type": "improvement",
+        "content": "設定画面の項目整理、簡易モード切り替え、項目検索とスクロール・ハイライト表示を追加しました。"
+      }
+    ],
     "version": "0.56.4"
   },
   {
