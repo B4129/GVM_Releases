@@ -1,5 +1,27 @@
 [
   {
+    "releaseDate": "2026-06-14",
+    "updates": [
+      {
+        "type": "feature",
+        "content": "プラグインの処理状況を表示できるようになりました"
+      },
+      {
+        "type": "fix",
+        "content": "書き出し時のTFTカード表示を整えました"
+      },
+      {
+        "type": "improvement",
+        "content": "静止した書き出しフレームの処理を軽くしました"
+      },
+      {
+        "type": "improvement",
+        "content": "使われていない追従関連機能を整理しました"
+      }
+    ],
+    "version": "0.58.0"
+  },
+  {
     "releaseDate": "2026-06-13",
     "updates": [
       {
