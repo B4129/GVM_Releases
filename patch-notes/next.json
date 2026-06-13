@@ -7,6 +7,10 @@
                     },
                     {
                         "type":  "feature",
+                        "content":  "文字起こしからAI用プロンプトをコピーできるようになりました"
+                    },
+                    {
+                        "type":  "feature",
                         "content":  "クイックツールから下書き候補を分析できるようになりました"
                     },
                     {
@@ -19,11 +23,51 @@
                     },
                     {
                         "type":  "feature",
+                        "content":  "実況が薄い区間へすぐ移動できるようになりました"
+                    },
+                    {
+                        "type":  "feature",
                         "content":  "書き出しに配信先プリセットを追加しました"
                     },
                     {
                         "type":  "feature",
                         "content":  "フィラー語のカット候補を確認できるようになりました"
+                    },
+                    {
+                        "type":  "feature",
+                        "content":  "処理状況を右下でまとめて確認できるようになりました"
+                    },
+                    {
+                        "type":  "feature",
+                        "content":  "欠落素材をタイムライン上から一括再接続できるようになりました"
+                    },
+                    {
+                        "type":  "feature",
+                        "content":  "プラグインからマーカーを追加できるようになりました"
+                    },
+                    {
+                        "type":  "feature",
+                        "content":  "録音開始位置とガイドトラックを指定できるようになりました"
+                    },
+                    {
+                        "type":  "feature",
+                        "content":  "台本取り込み用のAIプロンプトをコピーできるようになりました"
+                    },
+                    {
+                        "type":  "feature",
+                        "content":  "台本配置の間合いを調整できるようになりました"
+                    },
+                    {
+                        "type":  "feature",
+                        "content":  "最終保存時刻を常に確認できるようになりました"
+                    },
+                    {
+                        "type":  "fix",
+                        "content":  "設定検索から正しい項目へ移動できるようにしました"
+                    },
+                    {
+                        "type":  "improvement",
+                        "content":  "音声作成の中止時に途中結果を残せるようにしました"
                     },
                     {
                         "type":  "improvement",
@@ -51,6 +95,14 @@
                     },
                     {
                         "type":  "improvement",
+                        "content":  "コマンド検索からAI相談へ進めるようにしました"
+                    },
+                    {
+                        "type":  "improvement",
+                        "content":  "ルーラーで実況の密度を見やすくしました"
+                    },
+                    {
+                        "type":  "improvement",
                         "content":  "デザイン編集の複数選択と整列を使いやすくしました"
                     },
                     {
@@ -63,7 +115,15 @@
                     },
                     {
                         "type":  "improvement",
+                        "content":  "一部画面の初期表示を軽くしました"
+                    },
+                    {
+                        "type":  "improvement",
                         "content":  "追従オーバーレイの解析速度と動きを改善しました"
+                    },
+                    {
+                        "type":  "improvement",
+                        "content":  "シーク後のプレビュー表示を先読みで改善しました"
                     },
                     {
                         "type":  "improvement",
@@ -71,11 +131,35 @@
                     },
                     {
                         "type":  "improvement",
+                        "content":  "録音テイクと文字起こし結果のつながりを保持しました"
+                    },
+                    {
+                        "type":  "improvement",
                         "content":  "台本取り込みの形式判別と話者確認を改善しました"
                     },
                     {
                         "type":  "improvement",
+                        "content":  "台本配置の遅れを3つの方法で調整できるようにしました"
+                    },
+                    {
+                        "type":  "improvement",
+                        "content":  "セリフ書き出しに実況密度の情報を含めました"
+                    },
+                    {
+                        "type":  "improvement",
                         "content":  "設定画面の項目整理、簡易モード切り替え、項目検索とスクロール・ハイライト表示を追加しました。"
+                    },
+                    {
+                        "type":  "fix",
+                        "content":  "設定を閉じる時に変更を戻しやすくしました"
+                    },
+                    {
+                        "type":  "improvement",
+                        "content":  "サムネイルキャッシュ処理の待ち時間を減らしました"
+                    },
+                    {
+                        "type":  "improvement",
+                        "content":  "キーボードで再生位置を動かしやすくしました"
                     }
                 ],
     "version":  "0.57.0"
