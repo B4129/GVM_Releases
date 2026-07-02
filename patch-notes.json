@@ -3,6 +3,16 @@
     "releaseDate": "2026-07-02",
     "updates": [
       {
+        "type": "fix",
+        "content": "タイムラインルーラー上でプレイヘッドのピン（インジケーター）が表示されるよう修正しました"
+      }
+    ],
+    "version": "0.61.1"
+  },
+  {
+    "releaseDate": "2026-07-02",
+    "updates": [
+      {
         "type": "improvement",
         "content": "アプリのデフォルトテーマをダークグレーに変更しました。"
       },
