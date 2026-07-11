@@ -1,5 +1,351 @@
 [
   {
+    "releaseDate": "2026-07-11",
+    "updates": [
+      {
+        "type": "feature",
+        "content": "AivisSpeechで音声を作成できるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "テキスト素材を保存してワンクリックで挿入できるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "複数の動画や音声をまとめてセリフに変換できるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "BGMをライブラリから取得できるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "録画ドラフトをおまかせ編集できるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "セリフ前に表情や画像のアイコンを表示できるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "立ち絵を3ステップで設定できるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "保存済みデザインをまとめて画像書き出しできるようにしました"
+      },
+      {
+        "type": "feature",
+        "content": "保存済みデザインを複製して別のバリエーションを作れます"
+      },
+      {
+        "type": "feature",
+        "content": "デザインをライブラリから挿入し、安全領域を確認できます"
+      },
+      {
+        "type": "feature",
+        "content": "デザインを保存・整理し、再編集やタイムライン挿入ができます"
+      },
+      {
+        "type": "feature",
+        "content": "おまかせ生成の候補を自由編集できるレイヤーとして使えます"
+      },
+      {
+        "type": "feature",
+        "content": "デザインスタジオの基本操作を初回に案内するようにしました"
+      },
+      {
+        "type": "feature",
+        "content": "デザインへタグを付けて保存済み一覧から探せるようにしました"
+      },
+      {
+        "type": "feature",
+        "content": "デザインと文字情報を分けて再利用できるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "過去の編集傾向からセリフ配置を提案できるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "録画映像を解析してゲームイベントのマーカーを追加できるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "録画のアイドル候補を確認してまとめてカットできるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "irodoriTTSで声質指定と参照音声を利用できるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "生声実況を話者別の文体へ変換し、振り返りも活用できるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "TFT・LoLのパッチ差分から編集素材を作れるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "プラグインから描画や書き出し連携ができるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "URLからプラグインを追加・更新できるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "クリップ上へテロップや画像をすぐに重ねられるようにしました"
+      },
+      {
+        "type": "feature",
+        "content": "録画した試合データをテロップやランク表示に使えるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "編集画面のレイアウトをプリセットやカスタム配置で変更できるようにしました"
+      },
+      {
+        "type": "feature",
+        "content": "台本に補完素材を自然に織り込めるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "プロジェクト別にセリフ学習のゲーム・用途・話者を分けられるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "セリフ入力補助を高速で自然なリアルタイム候補に刷新しました"
+      },
+      {
+        "type": "feature",
+        "content": "立ち絵パーツをアプリ内で非破壊編集できるようになりました"
+      },
+      {
+        "type": "feature",
+        "content": "再生停止時に最適なクリップを自動選択するようにしました"
+      },
+      {
+        "type": "feature",
+        "content": "チュートリアル画像と説明をまとめて更新できるようにしました"
+      },
+      {
+        "type": "fix",
+        "content": "AivisSpeechの準備と接続を安定して行えるようにしました"
+      },
+      {
+        "type": "fix",
+        "content": "演出効果の適用範囲を揃え、全画面表示の品質を改善しました"
+      },
+      {
+        "type": "fix",
+        "content": "立ち絵と表情のサムネイルが欠けずに表示されるようにしました"
+      },
+      {
+        "type": "fix",
+        "content": "カスタム画面でもクイックツールが開くよう修正しました"
+      },
+      {
+        "type": "fix",
+        "content": "再読み込み後の素材も正常に書き出せるよう修正しました"
+      },
+      {
+        "type": "fix",
+        "content": "画面レイアウト変更後にアセットやプラグインが表示されない問題を修正しました"
+      },
+      {
+        "type": "fix",
+        "content": "回転角度が一周する際の座標プレビューの動きを修正しました"
+      },
+      {
+        "type": "fix",
+        "content": "プレビューの比率を維持し余白に黒帯を表示するようにしました"
+      },
+      {
+        "type": "fix",
+        "content": "OP後の動画プレビューが止まる問題を修正しました"
+      },
+      {
+        "type": "fix",
+        "content": "字幕の強調色と縁取りが正しく表示されない問題を修正しました"
+      },
+      {
+        "type": "fix",
+        "content": "タイトル画面に保存済みプロジェクトが表示されない問題を修正しました"
+      },
+      {
+        "type": "fix",
+        "content": "4倍速再生時に映像がカクつく問題を修正しました"
+      },
+      {
+        "type": "fix",
+        "content": "タイトル画面で通常プロジェクトを最初に表示するようにしました"
+      },
+      {
+        "type": "fix",
+        "content": "音声エンジンの導入状態と起動判定を改善しました"
+      },
+      {
+        "type": "fix",
+        "content": "準備中のカードを停止中も確認できるようにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "入力中のキャラクターに必要な音声エンジンだけを起動するようにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "PC性能に合わせて動画をより高速に書き出せるようにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "音量調整の吸着と無音時の表示を改善しました"
+      },
+      {
+        "type": "improvement",
+        "content": "自動マーカーをゲームタイトル別に設定できるようにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "録画中に編集画面が閉じる動作を初回起動時に案内するようにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "カード動画の準備状況を画面右下で確認できるようにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "カードの透過動画生成が止まりにくくなりました"
+      },
+      {
+        "type": "improvement",
+        "content": "口パクが発音タイミングに自然に合うようになりました"
+      },
+      {
+        "type": "improvement",
+        "content": "立ち絵の読み込みとプレビュー動作を軽量化しました"
+      },
+      {
+        "type": "improvement",
+        "content": "キャラクターの字幕プリセットを見本から選べるようにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "クリップ設定を検索・式入力対応のコンパクトな操作画面に刷新しました"
+      },
+      {
+        "type": "improvement",
+        "content": "初期値に戻す操作で既定値を確認できるようにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "保存済みデザインを自動保存し、以前の内容も保持するようにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "デザインの画像書き出し品質とサイズ指定を改善しました"
+      },
+      {
+        "type": "improvement",
+        "content": "辞書の重複項目を確認してから取り込めるようにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "書き出し完了通知から保存場所を開けるようにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "内蔵拡張と外部プラグインを一画面で管理できます"
+      },
+      {
+        "type": "improvement",
+        "content": "未使用データを除外してインストーラーを軽量化しました"
+      },
+      {
+        "type": "improvement",
+        "content": "未対応の表示言語選択肢を整理しました"
+      },
+      {
+        "type": "improvement",
+        "content": "ファイルとAPIキーをより安全に扱えるようにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "長時間編集時のメモリ使用量を抑えました"
+      },
+      {
+        "type": "improvement",
+        "content": "プラグインの署名と互換性を確認して安全に停止します"
+      },
+      {
+        "type": "improvement",
+        "content": "高速シークや倍速再生時のプレビューの固まりを改善しました"
+      },
+      {
+        "type": "improvement",
+        "content": "プレビュー上の字幕操作を整理しました"
+      },
+      {
+        "type": "improvement",
+        "content": "プレビューとタイムラインの編集操作を軽快にしました"
+      },
+      {
+        "type": "improvement",
+        "content": "プレビュー上の要素をドラッグしやすくしました"
+      },
+      {
+        "type": "improvement",
+        "content": "設定を自動バックアップして安全に復旧できるようにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "字幕ガチャでムード・冒険度・文字アニメを選べるようにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "字幕候補をスクロールする際の動作を軽量化しました"
+      },
+      {
+        "type": "improvement",
+        "content": "クリップが多いタイムラインのスクロールを軽快にしました"
+      },
+      {
+        "type": "improvement",
+        "content": "ミニマップのスクロール操作を滑らかにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "クリップの長さを変更する操作を軽快にしました"
+      },
+      {
+        "type": "improvement",
+        "content": "多数のクリップがあるタイムラインのズームを滑らかにしました"
+      },
+      {
+        "type": "improvement",
+        "content": "トラックヘッダーの不要なアイコンと操作を整理しました"
+      },
+      {
+        "type": "improvement",
+        "content": "音声エンジンの設定と接続確認を使いやすくしました"
+      },
+      {
+        "type": "improvement",
+        "content": "画面更新による操作の不具合を検出しやすくしました"
+      },
+      {
+        "type": "improvement",
+        "content": "通知や確認画面を見やすく操作しやすくしました"
+      },
+      {
+        "type": "improvement",
+        "content": "文字や時間表示、画面情報の読みやすさを改善しました"
+      }
+    ],
+    "version": "0.63.0"
+  },
+  {
     "releaseDate": "2026-07-03",
     "updates": [
       {
