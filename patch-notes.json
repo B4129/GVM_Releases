@@ -1,5 +1,55 @@
 [
   {
+    "version": "0.75.0",
+    "releaseDate": "2026-07-30",
+    "updates": [
+      {
+        "title": "新機能",
+        "category": "update",
+        "sections": [
+          {
+            "title": "TFTツール",
+            "items": [
+              "SET 18の先行データを選べるようになりました"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "使いやすさの改善",
+        "category": "update",
+        "sections": [
+          {
+            "title": "ゲーム録画",
+            "items": [
+              "ゲームが一時終了しても録画を保護して再開できるようになりました",
+              "ゲーム以外の音を録音しない設定を追加しました"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "不具合修正",
+        "category": "fix",
+        "sections": [
+          {
+            "title": "ゲーム録画",
+            "items": [
+              "長時間の試合を設定FPSの1本の動画として安定保存できるようになりました",
+              "Unreal版TFTのゲーム画面だけを正しく録画できるようになりました"
+            ]
+          },
+          {
+            "title": "TFTツール",
+            "items": [
+              "SET18カードの情報表示とセット切替を修正しました"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "version": "0.74.0",
     "releaseDate": "2026-07-27",
     "updates": [
