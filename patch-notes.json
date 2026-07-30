@@ -1,5 +1,59 @@
 [
   {
+    "version": "0.77.0",
+    "releaseDate": "2026-07-30",
+    "updates": [
+      {
+        "title": "新機能",
+        "category": "update",
+        "sections": [
+          {
+            "title": "ユーティリティ",
+            "items": [
+              "会話デッキとタスクリストを使えるようになりました"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "使いやすさの改善",
+        "category": "update",
+        "sections": [
+          {
+            "title": "タイムライン",
+            "items": [
+              "BPMの拍位置を薄い縦線で確認しやすくしました"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "不具合修正",
+        "category": "fix",
+        "sections": [
+          {
+            "title": "プレビュー",
+            "items": [
+              "低速シーク時に目的位置のフレームを正確に表示するよう修正しました"
+            ]
+          },
+          {
+            "title": "タイムライン",
+            "items": [
+              "クリップ分割後に前半側が選択されるよう修正しました"
+            ]
+          },
+          {
+            "title": "自動録画",
+            "items": [
+              "Unreal版TFTのラウンド位置を正確に検出できるようにしました"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "version": "0.76.0",
     "releaseDate": "2026-07-30",
     "updates": [
