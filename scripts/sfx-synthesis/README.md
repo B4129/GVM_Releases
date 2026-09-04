@@ -18,7 +18,7 @@ python render.py --output ./rendered-pack
 
 ## 名前と音源の対応
 
-選択画面に表示する名前は「用途（音の特徴）」です。
+選択画面に表示する名前は「音の特徴（用途）」です。
 詳しくは[効果音の命名規則](../../sfx/命名規則.md)を参照してください。
 管理番号はsfx-registry.jsonのpresetNumberとpresets.pyのnumberで対応させます。
 番号は表示名に含めず、追加時も既存の番号・IDを変更しません。

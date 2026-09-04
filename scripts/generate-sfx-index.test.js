@@ -15,7 +15,7 @@ function fixture(t) {
     });
     const bytes = Buffer.from('unchanged audio payload');
     const sha256 = crypto.createHash('sha256').update(bytes).digest('hex');
-    const asset = {id: 'sfx-stable-id', category: '通知', name: '通知（ピコン）.wav',
+    const asset = {id: 'sfx-stable-id', category: '通知', name: 'ピコン（通知）.wav',
         sha256, duration: .69, sizeBytes: bytes.length, aliases: ['GVM_003_通知_ピコン.wav']};
     const save = (assets = [asset]) => fs.writeFileSync(path.join(root, 'sfx-registry.json'),
         JSON.stringify({formatVersion: 1, assets}), 'utf8');
@@ -33,11 +33,11 @@ test('renaming retains the ID and metadata, encodes Japanese URLs, and hides old
     const items = buildCatalog(root);
     assert.equal(items.length, 1);
     assert.equal(items[0].id, 'sfx-stable-id');
-    assert.equal(items[0].name, '通知（ピコン）.wav');
+    assert.equal(items[0].name, 'ピコン（通知）.wav');
     assert.equal(items[0].duration, .69);
     assert.equal(items[0].sizeBytes, asset.sizeBytes);
     assert.equal(decodeURIComponent(new URL(items[0].url).pathname),
-        '/B4129/GVM_Releases/main/sfx/通知/通知（ピコン）.wav');
+        '/B4129/GVM_Releases/main/sfx/通知/ピコン（通知）.wav');
     assert.deepEqual(buildCatalog(root), items);
 });
 
@@ -62,7 +62,7 @@ test('customer names must be concise and paths cannot escape their category', t 
     const {root, asset, save} = fixture(t);
     for (const name of ['GVM_003_通知_ピコン.wav', '通知.wav', '通知（あ'.padEnd(29, 'あ') + '）.wav']) {
         save([{...asset, name}]);
-        assert.throws(() => buildCatalog(root), /Use 用途/);
+        assert.throws(() => buildCatalog(root), /Use 音の特徴/);
     }
     save([{...asset, aliases: ['../outside.wav']}]);
     assert.throws(() => buildCatalog(root), /Unsafe segment/);
@@ -77,4 +77,14 @@ test('existing numbered assets retain the original catalog shape', t => {
     const item = buildCatalog(root).find(item => item.id === legacy.id);
     assert.deepEqual(Object.keys(item), ['id', 'name', 'category', 'url']);
     assert.equal(item.name, '1.mp3');
+});
+
+test('audible counts may lead a name while a bare management number may not', t => {
+    const {root, asset, save, audio} = fixture(t);
+    const name = '2音ピポッ（注意喚起）.wav';
+    audio(name);
+    save([{...asset, name, aliases: [...asset.aliases, asset.name]}]);
+    assert.equal(buildCatalog(root)[0].name, name);
+    save([{...asset, name: '001（通知）.wav'}]);
+    assert.throws(() => buildCatalog(root), /Use 音の特徴/);
 });

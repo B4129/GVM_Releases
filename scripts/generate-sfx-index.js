@@ -35,7 +35,7 @@ function buildCatalog(root) {
             assert.match(name, /^\d+\.mp3$/, 'Only existing numbered MP3 names may be retained');
         } else {
             assert.ok([...label].length <= 20 && /^[^（）_]+（[^（）_]+）$/.test(label)
-                && !/^GVM/i.test(label) && !/^\d/.test(label), `Use 用途（音の特徴）, at most 20 characters: ${label}`);
+                && !/^GVM/i.test(label) && !/^\d+（/.test(label), `Use 音の特徴（用途）, at most 20 characters: ${label}`);
             const key = label.normalize('NFC').toLowerCase();
             assert.ok(!labels.has(key), `Duplicate display name: ${label}`);
             labels.add(key);
