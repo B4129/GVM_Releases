@@ -1,5 +1,93 @@
 [
   {
+    "id": "sfx-ed1417bd0253313646daee6232ebf23f",
+    "name": "GVM_009_ひらめき_キラーン.wav",
+    "category": "キラキラ・魔法",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%83%BB%E9%AD%94%E6%B3%95/GVM_009_%E3%81%B2%E3%82%89%E3%82%81%E3%81%8D_%E3%82%AD%E3%83%A9%E3%83%BC%E3%83%B3.wav",
+    "duration": 1.36,
+    "sizeBytes": 391724
+  },
+  {
+    "id": "sfx-ef2934c5794f7fd0e3ad6335c6fb8de7",
+    "name": "GVM_081_小さなきらめき_ティン.wav",
+    "category": "キラキラ・魔法",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%83%BB%E9%AD%94%E6%B3%95/GVM_081_%E5%B0%8F%E3%81%95%E3%81%AA%E3%81%8D%E3%82%89%E3%82%81%E3%81%8D_%E3%83%86%E3%82%A3%E3%83%B3.wav",
+    "duration": 0.87,
+    "sizeBytes": 250604
+  },
+  {
+    "id": "sfx-a59463d53a98c3dc09880fbd00699a0e",
+    "name": "GVM_082_光の軌跡_キララ.wav",
+    "category": "キラキラ・魔法",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%83%BB%E9%AD%94%E6%B3%95/GVM_082_%E5%85%89%E3%81%AE%E8%BB%8C%E8%B7%A1_%E3%82%AD%E3%83%A9%E3%83%A9.wav",
+    "duration": 1.12,
+    "sizeBytes": 322604
+  },
+  {
+    "id": "sfx-b6b567bbb4b8cb226e8ad765edb20982",
+    "name": "GVM_083_透明なベル_リーン.wav",
+    "category": "キラキラ・魔法",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%83%BB%E9%AD%94%E6%B3%95/GVM_083_%E9%80%8F%E6%98%8E%E3%81%AA%E3%83%99%E3%83%AB_%E3%83%AA%E3%83%BC%E3%83%B3.wav",
+    "duration": 1.48,
+    "sizeBytes": 426284
+  },
+  {
+    "id": "sfx-0e17e077fa3e5e75ceb0194bf21cecfc",
+    "name": "GVM_084_宝箱風_きらめく登場.wav",
+    "category": "キラキラ・魔法",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%83%BB%E9%AD%94%E6%B3%95/GVM_084_%E5%AE%9D%E7%AE%B1%E9%A2%A8_%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E7%99%BB%E5%A0%B4.wav",
+    "duration": 1.53,
+    "sizeBytes": 440684
+  },
+  {
+    "id": "sfx-f5bf4d6229b9971c6bb5d3561fd28d86",
+    "name": "GVM_085_降りる光_キラリラ.wav",
+    "category": "キラキラ・魔法",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%83%BB%E9%AD%94%E6%B3%95/GVM_085_%E9%99%8D%E3%82%8A%E3%82%8B%E5%85%89_%E3%82%AD%E3%83%A9%E3%83%AA%E3%83%A9.wav",
+    "duration": 1.17,
+    "sizeBytes": 337004
+  },
+  {
+    "id": "sfx-9ac3e625ecce20f0fffd1cbd2b4c73b3",
+    "name": "GVM_086_光の粒_きらきら.wav",
+    "category": "キラキラ・魔法",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%83%BB%E9%AD%94%E6%B3%95/GVM_086_%E5%85%89%E3%81%AE%E7%B2%92_%E3%81%8D%E3%82%89%E3%81%8D%E3%82%89.wav",
+    "duration": 1.18,
+    "sizeBytes": 339884
+  },
+  {
+    "id": "sfx-ad1ac91bda224ff2a2a3cd8ddad2010c",
+    "name": "GVM_087_魔法の広がり_ふわキラ.wav",
+    "category": "キラキラ・魔法",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%83%BB%E9%AD%94%E6%B3%95/GVM_087_%E9%AD%94%E6%B3%95%E3%81%AE%E5%BA%83%E3%81%8C%E3%82%8A_%E3%81%B5%E3%82%8F%E3%82%AD%E3%83%A9.wav",
+    "duration": 1.65,
+    "sizeBytes": 475244
+  },
+  {
+    "id": "sfx-ccf2b71eee2eb9d1597e16f90e8bb1e4",
+    "name": "GVM_088_二つの星_ティリリン.wav",
+    "category": "キラキラ・魔法",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%83%BB%E9%AD%94%E6%B3%95/GVM_088_%E4%BA%8C%E3%81%A4%E3%81%AE%E6%98%9F_%E3%83%86%E3%82%A3%E3%83%AA%E3%83%AA%E3%83%B3.wav",
+    "duration": 1.13,
+    "sizeBytes": 325484
+  },
+  {
+    "id": "sfx-92d03aa37fbd3b1a43f73610bace7557",
+    "name": "GVM_089_クリスタル和音_シャラン.wav",
+    "category": "キラキラ・魔法",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%83%BB%E9%AD%94%E6%B3%95/GVM_089_%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E5%92%8C%E9%9F%B3_%E3%82%B7%E3%83%A3%E3%83%A9%E3%83%B3.wav",
+    "duration": 1.44,
+    "sizeBytes": 414764
+  },
+  {
+    "id": "sfx-c28f7fa2208b61cffcbe6bb2e86b2138",
+    "name": "GVM_090_流れ星_きらり落下.wav",
+    "category": "キラキラ・魔法",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%83%BB%E9%AD%94%E6%B3%95/GVM_090_%E6%B5%81%E3%82%8C%E6%98%9F_%E3%81%8D%E3%82%89%E3%82%8A%E8%90%BD%E4%B8%8B.wav",
+    "duration": 0.89,
+    "sizeBytes": 256364
+  },
+  {
     "id": "sfx-37ee792cec2236fd0c0d171c35ab7afd",
     "name": "1.mp3",
     "category": "クリック・選択",
@@ -24,10 +112,178 @@
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E9%81%B8%E6%8A%9E/4.mp3"
   },
   {
+    "id": "sfx-5db1b7310ddb791bf619e4c0f8cb0988",
+    "name": "GVM_002_操作_カチッ.wav",
+    "category": "クリック・選択",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E9%81%B8%E6%8A%9E/GVM_002_%E6%93%8D%E4%BD%9C_%E3%82%AB%E3%83%81%E3%83%83.wav",
+    "duration": 0.15,
+    "sizeBytes": 43244
+  },
+  {
+    "id": "sfx-46df076db6e91d2cc005811eef896357",
+    "name": "GVM_021_マウスクリック風_カチッ.wav",
+    "category": "クリック・選択",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E9%81%B8%E6%8A%9E/GVM_021_%E3%83%9E%E3%82%A6%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E9%A2%A8_%E3%82%AB%E3%83%81%E3%83%83.wav",
+    "duration": 0.15,
+    "sizeBytes": 43244
+  },
+  {
+    "id": "sfx-6daa6c89e6c6b443cd61de5f64196117",
+    "name": "GVM_022_トグル切り替え_カチカチ.wav",
+    "category": "クリック・選択",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E9%81%B8%E6%8A%9E/GVM_022_%E3%83%88%E3%82%B0%E3%83%AB%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88_%E3%82%AB%E3%83%81%E3%82%AB%E3%83%81.wav",
+    "duration": 0.19,
+    "sizeBytes": 54764
+  },
+  {
+    "id": "sfx-8c0609709b35c5033f4c331292ab2298",
+    "name": "GVM_023_重めのスイッチ_ガチッ.wav",
+    "category": "クリック・選択",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E9%81%B8%E6%8A%9E/GVM_023_%E9%87%8D%E3%82%81%E3%81%AE%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81_%E3%82%AC%E3%83%81%E3%83%83.wav",
+    "duration": 0.18,
+    "sizeBytes": 51884
+  },
+  {
+    "id": "sfx-664038ceacb42fda729b77d124ddba6f",
+    "name": "GVM_024_木の選択音_コツ.wav",
+    "category": "クリック・選択",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E9%81%B8%E6%8A%9E/GVM_024_%E6%9C%A8%E3%81%AE%E9%81%B8%E6%8A%9E%E9%9F%B3_%E3%82%B3%E3%83%84.wav",
+    "duration": 0.16,
+    "sizeBytes": 46124
+  },
+  {
+    "id": "sfx-f94039c6c12076acb3c52d7432c97bb0",
+    "name": "GVM_025_電子選択音_チッ.wav",
+    "category": "クリック・選択",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E9%81%B8%E6%8A%9E/GVM_025_%E9%9B%BB%E5%AD%90%E9%81%B8%E6%8A%9E%E9%9F%B3_%E3%83%81%E3%83%83.wav",
+    "duration": 0.15,
+    "sizeBytes": 43244
+  },
+  {
+    "id": "sfx-b7dee8d53fcf1d6f1d12e7286afa9fa2",
+    "name": "GVM_026_金属ボタン_チンッ.wav",
+    "category": "クリック・選択",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E9%81%B8%E6%8A%9E/GVM_026_%E9%87%91%E5%B1%9E%E3%83%9C%E3%82%BF%E3%83%B3_%E3%83%81%E3%83%B3%E3%83%83.wav",
+    "duration": 0.21,
+    "sizeBytes": 60524
+  },
+  {
+    "id": "sfx-c0bfb92bee0aae64ba23848badc53ae1",
+    "name": "GVM_027_スクロール_コロロッ.wav",
+    "category": "クリック・選択",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E9%81%B8%E6%8A%9E/GVM_027_%E3%82%B9%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%AB_%E3%82%B3%E3%83%AD%E3%83%AD%E3%83%83.wav",
+    "duration": 0.3,
+    "sizeBytes": 86444
+  },
+  {
+    "id": "sfx-60e8d8929fe76ad01d0f6dd87fa3260d",
+    "name": "GVM_028_シャッター_カシャッ.wav",
+    "category": "クリック・選択",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E9%81%B8%E6%8A%9E/GVM_028_%E3%82%B7%E3%83%A3%E3%83%83%E3%82%BF%E3%83%BC_%E3%82%AB%E3%82%B7%E3%83%A3%E3%83%83.wav",
+    "duration": 0.25,
+    "sizeBytes": 72044
+  },
+  {
+    "id": "sfx-d43897beabf6371e93c8c5fade88d4e1",
+    "name": "GVM_029_押して離す_コクッカチッ.wav",
+    "category": "クリック・選択",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E9%81%B8%E6%8A%9E/GVM_029_%E6%8A%BC%E3%81%97%E3%81%A6%E9%9B%A2%E3%81%99_%E3%82%B3%E3%82%AF%E3%83%83%E3%82%AB%E3%83%81%E3%83%83.wav",
+    "duration": 0.26,
+    "sizeBytes": 74924
+  },
+  {
+    "id": "sfx-d37b47fa7a419b94f6aaa68ba18fa5c2",
+    "name": "GVM_030_スワイプ選択_シュチッ.wav",
+    "category": "クリック・選択",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E9%81%B8%E6%8A%9E/GVM_030_%E3%82%B9%E3%83%AF%E3%82%A4%E3%83%97%E9%81%B8%E6%8A%9E_%E3%82%B7%E3%83%A5%E3%83%81%E3%83%83.wav",
+    "duration": 0.21,
+    "sizeBytes": 60524
+  },
+  {
     "id": "sfx-96561c971d874318c891eaacc47e4cda",
     "name": "1.mp3",
     "category": "ゲーム音・8bit",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%B2%E3%83%BC%E3%83%A0%E9%9F%B3%E3%83%BB8bit/1.mp3"
+  },
+  {
+    "id": "sfx-2738df63f7a1fcc1397af508d3bee270",
+    "name": "GVM_101_コイン風_ピリン.wav",
+    "category": "ゲーム音・8bit",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%B2%E3%83%BC%E3%83%A0%E9%9F%B3%E3%83%BB8bit/GVM_101_%E3%82%B3%E3%82%A4%E3%83%B3%E9%A2%A8_%E3%83%94%E3%83%AA%E3%83%B3.wav",
+    "duration": 0.33,
+    "sizeBytes": 95084
+  },
+  {
+    "id": "sfx-7a69f9a8fc9a5ab0fce603b463b95e63",
+    "name": "GVM_102_アイテム取得_ピロッ.wav",
+    "category": "ゲーム音・8bit",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%B2%E3%83%BC%E3%83%A0%E9%9F%B3%E3%83%BB8bit/GVM_102_%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E5%8F%96%E5%BE%97_%E3%83%94%E3%83%AD%E3%83%83.wav",
+    "duration": 0.31,
+    "sizeBytes": 89324
+  },
+  {
+    "id": "sfx-38ceeb6b16ed2da2521177c669b02e65",
+    "name": "GVM_103_ジャンプ_ピョイン.wav",
+    "category": "ゲーム音・8bit",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%B2%E3%83%BC%E3%83%A0%E9%9F%B3%E3%83%BB8bit/GVM_103_%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97_%E3%83%94%E3%83%A7%E3%82%A4%E3%83%B3.wav",
+    "duration": 0.37,
+    "sizeBytes": 106604
+  },
+  {
+    "id": "sfx-b3302075c1b91a0a61b5720ca8e702b8",
+    "name": "GVM_104_着地_ピョム.wav",
+    "category": "ゲーム音・8bit",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%B2%E3%83%BC%E3%83%A0%E9%9F%B3%E3%83%BB8bit/GVM_104_%E7%9D%80%E5%9C%B0_%E3%83%94%E3%83%A7%E3%83%A0.wav",
+    "duration": 0.29,
+    "sizeBytes": 83564
+  },
+  {
+    "id": "sfx-9cfd6db61ea1475f8924874bc364cb4b",
+    "name": "GVM_105_レベルアップ_上昇音階.wav",
+    "category": "ゲーム音・8bit",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%B2%E3%83%BC%E3%83%A0%E9%9F%B3%E3%83%BB8bit/GVM_105_%E3%83%AC%E3%83%99%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97_%E4%B8%8A%E6%98%87%E9%9F%B3%E9%9A%8E.wav",
+    "duration": 0.7,
+    "sizeBytes": 201644
+  },
+  {
+    "id": "sfx-441b033c26b0c970e4c55aa38021a432",
+    "name": "GVM_106_チェックポイント_ピポパン.wav",
+    "category": "ゲーム音・8bit",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%B2%E3%83%BC%E3%83%A0%E9%9F%B3%E3%83%BB8bit/GVM_106_%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88_%E3%83%94%E3%83%9D%E3%83%91%E3%83%B3.wav",
+    "duration": 0.55,
+    "sizeBytes": 158444
+  },
+  {
+    "id": "sfx-0948062388fff5da01b929503008d61a",
+    "name": "GVM_107_警告_交互の電子音.wav",
+    "category": "ゲーム音・8bit",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%B2%E3%83%BC%E3%83%A0%E9%9F%B3%E3%83%BB8bit/GVM_107_%E8%AD%A6%E5%91%8A_%E4%BA%A4%E4%BA%92%E3%81%AE%E9%9B%BB%E5%AD%90%E9%9F%B3.wav",
+    "duration": 0.71,
+    "sizeBytes": 204524
+  },
+  {
+    "id": "sfx-e7f9b1bf6974bc6091747fc4b80cde08",
+    "name": "GVM_108_カウントダウン_三二一開始.wav",
+    "category": "ゲーム音・8bit",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%B2%E3%83%BC%E3%83%A0%E9%9F%B3%E3%83%BB8bit/GVM_108_%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%83%80%E3%82%A6%E3%83%B3_%E4%B8%89%E4%BA%8C%E4%B8%80%E9%96%8B%E5%A7%8B.wav",
+    "duration": 1.6,
+    "sizeBytes": 460844
+  },
+  {
+    "id": "sfx-0e825182a2ce4f6fe15df05a227fc1bc",
+    "name": "GVM_109_パワーアップ_連続上昇.wav",
+    "category": "ゲーム音・8bit",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%B2%E3%83%BC%E3%83%A0%E9%9F%B3%E3%83%BB8bit/GVM_109_%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97_%E9%80%A3%E7%B6%9A%E4%B8%8A%E6%98%87.wav",
+    "duration": 0.47,
+    "sizeBytes": 135404
+  },
+  {
+    "id": "sfx-1ba3a7519ed34fdb1be699afbfbac209",
+    "name": "GVM_110_パワーダウン_段階下降.wav",
+    "category": "ゲーム音・8bit",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%82%B2%E3%83%BC%E3%83%A0%E9%9F%B3%E3%83%BB8bit/GVM_110_%E3%83%91%E3%83%AF%E3%83%BC%E3%83%80%E3%82%A6%E3%83%B3_%E6%AE%B5%E9%9A%8E%E4%B8%8B%E9%99%8D.wav",
+    "duration": 0.58,
+    "sizeBytes": 167084
   },
   {
     "id": "sfx-25f4c8b974f4d09f66eb44da435dd82c",
@@ -138,6 +394,94 @@
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/10.mp3"
   },
   {
+    "id": "sfx-1057251b7b69a596561421414c420ceb",
+    "name": "GVM_001_テロップ出現_ポン.wav",
+    "category": "ポップアップ・出現",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/GVM_001_%E3%83%86%E3%83%AD%E3%83%83%E3%83%97%E5%87%BA%E7%8F%BE_%E3%83%9D%E3%83%B3.wav",
+    "duration": 0.3,
+    "sizeBytes": 86444
+  },
+  {
+    "id": "sfx-3fd4ed37b77dd91f418de86c85cb4345",
+    "name": "GVM_011_小さな文字_プチッ.wav",
+    "category": "ポップアップ・出現",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/GVM_011_%E5%B0%8F%E3%81%95%E3%81%AA%E6%96%87%E5%AD%97_%E3%83%97%E3%83%81%E3%83%83.wav",
+    "duration": 0.24,
+    "sizeBytes": 69164
+  },
+  {
+    "id": "sfx-156c6b1180f125bc250f3094f5b2a3ef",
+    "name": "GVM_012_やわらかい吹き出し_ぷにっ.wav",
+    "category": "ポップアップ・出現",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/GVM_012_%E3%82%84%E3%82%8F%E3%82%89%E3%81%8B%E3%81%84%E5%90%B9%E3%81%8D%E5%87%BA%E3%81%97_%E3%81%B7%E3%81%AB%E3%81%A3.wav",
+    "duration": 0.42,
+    "sizeBytes": 121004
+  },
+  {
+    "id": "sfx-e4165d822c2bfc1f729490e1c7341847",
+    "name": "GVM_013_丸いアイコン_ぽこっ.wav",
+    "category": "ポップアップ・出現",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/GVM_013_%E4%B8%B8%E3%81%84%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3_%E3%81%BD%E3%81%93%E3%81%A3.wav",
+    "duration": 0.4,
+    "sizeBytes": 115244
+  },
+  {
+    "id": "sfx-e5b6c58def729472d80d96b105bcf882",
+    "name": "GVM_014_木のポップ_コポン.wav",
+    "category": "ポップアップ・出現",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/GVM_014_%E6%9C%A8%E3%81%AE%E3%83%9D%E3%83%83%E3%83%97_%E3%82%B3%E3%83%9D%E3%83%B3.wav",
+    "duration": 0.3,
+    "sizeBytes": 86444
+  },
+  {
+    "id": "sfx-3b73310b1c09830185cd8802535e4ec6",
+    "name": "GVM_015_低い出現_ぼんっ.wav",
+    "category": "ポップアップ・出現",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/GVM_015_%E4%BD%8E%E3%81%84%E5%87%BA%E7%8F%BE_%E3%81%BC%E3%82%93%E3%81%A3.wav",
+    "duration": 0.44,
+    "sizeBytes": 126764
+  },
+  {
+    "id": "sfx-12fd68634e320b6cbbd2e0f5fe07e866",
+    "name": "GVM_016_軽い出現_ぱふっ.wav",
+    "category": "ポップアップ・出現",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/GVM_016_%E8%BB%BD%E3%81%84%E5%87%BA%E7%8F%BE_%E3%81%B1%E3%81%B5%E3%81%A3.wav",
+    "duration": 0.24,
+    "sizeBytes": 69164
+  },
+  {
+    "id": "sfx-106f1cc638d3ca2957a04557da3eb73c",
+    "name": "GVM_017_二段ポップ_ぽぽん.wav",
+    "category": "ポップアップ・出現",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/GVM_017_%E4%BA%8C%E6%AE%B5%E3%83%9D%E3%83%83%E3%83%97_%E3%81%BD%E3%81%BD%E3%82%93.wav",
+    "duration": 0.37,
+    "sizeBytes": 106604
+  },
+  {
+    "id": "sfx-7e99ab873b4f18ec5d09463728e25f7c",
+    "name": "GVM_018_三段ポップ_ぽぽぽん.wav",
+    "category": "ポップアップ・出現",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/GVM_018_%E4%B8%89%E6%AE%B5%E3%83%9D%E3%83%83%E3%83%97_%E3%81%BD%E3%81%BD%E3%81%BD%E3%82%93.wav",
+    "duration": 0.43,
+    "sizeBytes": 123884
+  },
+  {
+    "id": "sfx-2b33084ec7d206e1876652a6e1d48206",
+    "name": "GVM_019_弾む見出し_ぷるん.wav",
+    "category": "ポップアップ・出現",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/GVM_019_%E5%BC%BE%E3%82%80%E8%A6%8B%E5%87%BA%E3%81%97_%E3%81%B7%E3%82%8B%E3%82%93.wav",
+    "duration": 0.48,
+    "sizeBytes": 138284
+  },
+  {
+    "id": "sfx-d7b85a2df1dbf2ae9aebd1d399c6a37d",
+    "name": "GVM_020_泡の出現_ぴょこっ.wav",
+    "category": "ポップアップ・出現",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E5%87%BA%E7%8F%BE/GVM_020_%E6%B3%A1%E3%81%AE%E5%87%BA%E7%8F%BE_%E3%81%B4%E3%82%87%E3%81%93%E3%81%A3.wav",
+    "duration": 0.36,
+    "sizeBytes": 103724
+  },
+  {
     "id": "sfx-2593499d2fcc6be376f3dc9ed655e489",
     "name": "1.mp3",
     "category": "画面切り替え・シーン",
@@ -150,10 +494,282 @@
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E7%94%BB%E9%9D%A2%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%B3/2.mp3"
   },
   {
+    "id": "sfx-790e677d09db72b34d2cf066637a170d",
+    "name": "GVM_007_場面転換_スーッ.wav",
+    "category": "画面切り替え・シーン",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E7%94%BB%E9%9D%A2%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%B3/GVM_007_%E5%A0%B4%E9%9D%A2%E8%BB%A2%E6%8F%9B_%E3%82%B9%E3%83%BC%E3%83%83.wav",
+    "duration": 0.92,
+    "sizeBytes": 265004
+  },
+  {
+    "id": "sfx-c1a335d6f1aa1ba25c0a758ff7491472",
+    "name": "GVM_061_穏やかな場面転換_エアー.wav",
+    "category": "画面切り替え・シーン",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E7%94%BB%E9%9D%A2%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%B3/GVM_061_%E7%A9%8F%E3%82%84%E3%81%8B%E3%81%AA%E5%A0%B4%E9%9D%A2%E8%BB%A2%E6%8F%9B_%E3%82%A8%E3%82%A2%E3%83%BC.wav",
+    "duration": 0.96,
+    "sizeBytes": 276524
+  },
+  {
+    "id": "sfx-c45a81cf59f0649d7066bfbb967f7441",
+    "name": "GVM_062_明るい上昇_ライザー.wav",
+    "category": "画面切り替え・シーン",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E7%94%BB%E9%9D%A2%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%B3/GVM_062_%E6%98%8E%E3%82%8B%E3%81%84%E4%B8%8A%E6%98%87_%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC.wav",
+    "duration": 1.75,
+    "sizeBytes": 504044
+  },
+  {
+    "id": "sfx-f08734c36c3b3fbeb2f3a16d243d94a6",
+    "name": "GVM_063_緊張感の上昇_低音.wav",
+    "category": "画面切り替え・シーン",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E7%94%BB%E9%9D%A2%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%B3/GVM_063_%E7%B7%8A%E5%BC%B5%E6%84%9F%E3%81%AE%E4%B8%8A%E6%98%87_%E4%BD%8E%E9%9F%B3.wav",
+    "duration": 1.99,
+    "sizeBytes": 573164
+  },
+  {
+    "id": "sfx-d3c208a2da5ac7846d69e92722675d01",
+    "name": "GVM_064_逆再生風_シュワーン.wav",
+    "category": "画面切り替え・シーン",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E7%94%BB%E9%9D%A2%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%B3/GVM_064_%E9%80%86%E5%86%8D%E7%94%9F%E9%A2%A8_%E3%82%B7%E3%83%A5%E3%83%AF%E3%83%BC%E3%83%B3.wav",
+    "duration": 1.4,
+    "sizeBytes": 403244
+  },
+  {
+    "id": "sfx-6360be501b59db27b365976306192f82",
+    "name": "GVM_065_下降_スーン.wav",
+    "category": "画面切り替え・シーン",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E7%94%BB%E9%9D%A2%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%B3/GVM_065_%E4%B8%8B%E9%99%8D_%E3%82%B9%E3%83%BC%E3%83%B3.wav",
+    "duration": 0.96,
+    "sizeBytes": 276524
+  },
+  {
+    "id": "sfx-67c8e4370d11585498af6d63bf7bc1e0",
+    "name": "GVM_066_ズームアウト_フォーン.wav",
+    "category": "画面切り替え・シーン",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E7%94%BB%E9%9D%A2%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%B3/GVM_066_%E3%82%BA%E3%83%BC%E3%83%A0%E3%82%A2%E3%82%A6%E3%83%88_%E3%83%95%E3%82%A9%E3%83%BC%E3%83%B3.wav",
+    "duration": 0.72,
+    "sizeBytes": 207404
+  },
+  {
+    "id": "sfx-c47f5e6f1f519209e0b34af0e58e1b7b",
+    "name": "GVM_067_デジタル切り替え_グリッチ.wav",
+    "category": "画面切り替え・シーン",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E7%94%BB%E9%9D%A2%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%B3/GVM_067_%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88_%E3%82%B0%E3%83%AA%E3%83%83%E3%83%81.wav",
+    "duration": 0.78,
+    "sizeBytes": 224684
+  },
+  {
+    "id": "sfx-10f51195215591dc0a115e531b18cdbd",
+    "name": "GVM_068_テープ停止風_キュルン.wav",
+    "category": "画面切り替え・シーン",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E7%94%BB%E9%9D%A2%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%B3/GVM_068_%E3%83%86%E3%83%BC%E3%83%97%E5%81%9C%E6%AD%A2%E9%A2%A8_%E3%82%AD%E3%83%A5%E3%83%AB%E3%83%B3.wav",
+    "duration": 0.89,
+    "sizeBytes": 256364
+  },
+  {
+    "id": "sfx-480e68a2089f53137457051b0a90e638",
+    "name": "GVM_069_ページ風の場面転換_パラッ.wav",
+    "category": "画面切り替え・シーン",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E7%94%BB%E9%9D%A2%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%B3/GVM_069_%E3%83%9A%E3%83%BC%E3%82%B8%E9%A2%A8%E3%81%AE%E5%A0%B4%E9%9D%A2%E8%BB%A2%E6%8F%9B_%E3%83%91%E3%83%A9%E3%83%83.wav",
+    "duration": 0.75,
+    "sizeBytes": 216044
+  },
+  {
+    "id": "sfx-7f4245476acc9bcd0e3b71a14ea2313b",
+    "name": "GVM_070_タイトル登場_スウドン.wav",
+    "category": "画面切り替え・シーン",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E7%94%BB%E9%9D%A2%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%B3/GVM_070_%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E7%99%BB%E5%A0%B4_%E3%82%B9%E3%82%A6%E3%83%89%E3%83%B3.wav",
+    "duration": 1.2,
+    "sizeBytes": 345644
+  },
+  {
     "id": "sfx-6738de2866a64ab06af01a1472dc77b5",
     "name": "1.mp3",
     "category": "銃・リロード",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%8A%83%E3%83%BB%E3%83%AA%E3%83%AD%E3%83%BC%E3%83%89/1.mp3"
+  },
+  {
+    "id": "sfx-732e8cf80baca2d9414c1dde92edd32f",
+    "name": "GVM_091_紙めくり風_ペラッ.wav",
+    "category": "小物・生活音風",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E5%B0%8F%E7%89%A9%E3%83%BB%E7%94%9F%E6%B4%BB%E9%9F%B3%E9%A2%A8/GVM_091_%E7%B4%99%E3%82%81%E3%81%8F%E3%82%8A%E9%A2%A8_%E3%83%9A%E3%83%A9%E3%83%83.wav",
+    "duration": 0.42,
+    "sizeBytes": 121004
+  },
+  {
+    "id": "sfx-d4441f3e03cd8f80d350af1d11bbdd57",
+    "name": "GVM_092_紙をそろえる風_ササッ.wav",
+    "category": "小物・生活音風",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E5%B0%8F%E7%89%A9%E3%83%BB%E7%94%9F%E6%B4%BB%E9%9F%B3%E9%A2%A8/GVM_092_%E7%B4%99%E3%82%92%E3%81%9D%E3%82%8D%E3%81%88%E3%82%8B%E9%A2%A8_%E3%82%B5%E3%82%B5%E3%83%83.wav",
+    "duration": 0.59,
+    "sizeBytes": 169964
+  },
+  {
+    "id": "sfx-2ab5179d99ac5d50ca5c51f7f3e38161",
+    "name": "GVM_093_カード配り風_シュタッ.wav",
+    "category": "小物・生活音風",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E5%B0%8F%E7%89%A9%E3%83%BB%E7%94%9F%E6%B4%BB%E9%9F%B3%E9%A2%A8/GVM_093_%E3%82%AB%E3%83%BC%E3%83%89%E9%85%8D%E3%82%8A%E9%A2%A8_%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%83.wav",
+    "duration": 0.31,
+    "sizeBytes": 89324
+  },
+  {
+    "id": "sfx-7531c47ead2f6c81701edacbadb8c563",
+    "name": "GVM_094_鉛筆タップ風_コツコツ.wav",
+    "category": "小物・生活音風",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E5%B0%8F%E7%89%A9%E3%83%BB%E7%94%9F%E6%B4%BB%E9%9F%B3%E9%A2%A8/GVM_094_%E9%89%9B%E7%AD%86%E3%82%BF%E3%83%83%E3%83%97%E9%A2%A8_%E3%82%B3%E3%83%84%E3%82%B3%E3%83%84.wav",
+    "duration": 0.39,
+    "sizeBytes": 112364
+  },
+  {
+    "id": "sfx-fde99e6e2d62d0813ec2d9b09611d757",
+    "name": "GVM_095_キー入力風_三文字.wav",
+    "category": "小物・生活音風",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E5%B0%8F%E7%89%A9%E3%83%BB%E7%94%9F%E6%B4%BB%E9%9F%B3%E9%A2%A8/GVM_095_%E3%82%AD%E3%83%BC%E5%85%A5%E5%8A%9B%E9%A2%A8_%E4%B8%89%E6%96%87%E5%AD%97.wav",
+    "duration": 0.33,
+    "sizeBytes": 95084
+  },
+  {
+    "id": "sfx-27abe8ea2870d32422dbf33528b73238",
+    "name": "GVM_096_タイピング風_短い文章.wav",
+    "category": "小物・生活音風",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E5%B0%8F%E7%89%A9%E3%83%BB%E7%94%9F%E6%B4%BB%E9%9F%B3%E9%A2%A8/GVM_096_%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E9%A2%A8_%E7%9F%AD%E3%81%84%E6%96%87%E7%AB%A0.wav",
+    "duration": 0.68,
+    "sizeBytes": 195884
+  },
+  {
+    "id": "sfx-cab6953051e8e1a05b885b50d8617a97",
+    "name": "GVM_097_水滴風_ピチョン.wav",
+    "category": "小物・生活音風",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E5%B0%8F%E7%89%A9%E3%83%BB%E7%94%9F%E6%B4%BB%E9%9F%B3%E9%A2%A8/GVM_097_%E6%B0%B4%E6%BB%B4%E9%A2%A8_%E3%83%94%E3%83%81%E3%83%A7%E3%83%B3.wav",
+    "duration": 0.48,
+    "sizeBytes": 138284
+  },
+  {
+    "id": "sfx-140d0e5a64b95248dcaa14399486acde",
+    "name": "GVM_098_泡風_ポコポコ.wav",
+    "category": "小物・生活音風",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E5%B0%8F%E7%89%A9%E3%83%BB%E7%94%9F%E6%B4%BB%E9%9F%B3%E9%A2%A8/GVM_098_%E6%B3%A1%E9%A2%A8_%E3%83%9D%E3%82%B3%E3%83%9D%E3%82%B3.wav",
+    "duration": 0.61,
+    "sizeBytes": 175724
+  },
+  {
+    "id": "sfx-99ede02c16091abe116f130492129688",
+    "name": "GVM_099_小さな振り音_シャラッ.wav",
+    "category": "小物・生活音風",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E5%B0%8F%E7%89%A9%E3%83%BB%E7%94%9F%E6%B4%BB%E9%9F%B3%E9%A2%A8/GVM_099_%E5%B0%8F%E3%81%95%E3%81%AA%E6%8C%AF%E3%82%8A%E9%9F%B3_%E3%82%B7%E3%83%A3%E3%83%A9%E3%83%83.wav",
+    "duration": 0.45,
+    "sizeBytes": 129644
+  },
+  {
+    "id": "sfx-aed8e662b7900e2961d4b226c837ae54",
+    "name": "GVM_100_フィルム送り風_カシャコ.wav",
+    "category": "小物・生活音風",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E5%B0%8F%E7%89%A9%E3%83%BB%E7%94%9F%E6%B4%BB%E9%9F%B3%E9%A2%A8/GVM_100_%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E9%80%81%E3%82%8A%E9%A2%A8_%E3%82%AB%E3%82%B7%E3%83%A3%E3%82%B3.wav",
+    "duration": 0.33,
+    "sizeBytes": 95084
+  },
+  {
+    "id": "sfx-6219e49060e1e173c0249ec313df3c10",
+    "name": "GVM_004_正解_キラリン.wav",
+    "category": "正解・失敗・リアクション",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%AD%A3%E8%A7%A3%E3%83%BB%E5%A4%B1%E6%95%97%E3%83%BB%E3%83%AA%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/GVM_004_%E6%AD%A3%E8%A7%A3_%E3%82%AD%E3%83%A9%E3%83%AA%E3%83%B3.wav",
+    "duration": 0.94,
+    "sizeBytes": 270764
+  },
+  {
+    "id": "sfx-73a7ea27df302d3fe8c06973b4a70962",
+    "name": "GVM_005_不正解_ブブッ.wav",
+    "category": "正解・失敗・リアクション",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%AD%A3%E8%A7%A3%E3%83%BB%E5%A4%B1%E6%95%97%E3%83%BB%E3%83%AA%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/GVM_005_%E4%B8%8D%E6%AD%A3%E8%A7%A3_%E3%83%96%E3%83%96%E3%83%83.wav",
+    "duration": 0.49,
+    "sizeBytes": 141164
+  },
+  {
+    "id": "sfx-f43ef8989c50b8cbbe1298ea54ab341a",
+    "name": "GVM_010_疑問_ポヨン.wav",
+    "category": "正解・失敗・リアクション",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%AD%A3%E8%A7%A3%E3%83%BB%E5%A4%B1%E6%95%97%E3%83%BB%E3%83%AA%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/GVM_010_%E7%96%91%E5%95%8F_%E3%83%9D%E3%83%A8%E3%83%B3.wav",
+    "duration": 0.62,
+    "sizeBytes": 178604
+  },
+  {
+    "id": "sfx-5511b433d90430b5ef6c04a8282ba96d",
+    "name": "GVM_041_正解_ピンポン.wav",
+    "category": "正解・失敗・リアクション",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%AD%A3%E8%A7%A3%E3%83%BB%E5%A4%B1%E6%95%97%E3%83%BB%E3%83%AA%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/GVM_041_%E6%AD%A3%E8%A7%A3_%E3%83%94%E3%83%B3%E3%83%9D%E3%83%B3.wav",
+    "duration": 0.86,
+    "sizeBytes": 247724
+  },
+  {
+    "id": "sfx-1238699d8e047a449a44da9d0aeebcf0",
+    "name": "GVM_042_達成_パラリン.wav",
+    "category": "正解・失敗・リアクション",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%AD%A3%E8%A7%A3%E3%83%BB%E5%A4%B1%E6%95%97%E3%83%BB%E3%83%AA%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/GVM_042_%E9%81%94%E6%88%90_%E3%83%91%E3%83%A9%E3%83%AA%E3%83%B3.wav",
+    "duration": 1.09,
+    "sizeBytes": 313964
+  },
+  {
+    "id": "sfx-9a16c32a26c92dc85184b293e2ba722e",
+    "name": "GVM_043_お祝い_明るい和音.wav",
+    "category": "正解・失敗・リアクション",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%AD%A3%E8%A7%A3%E3%83%BB%E5%A4%B1%E6%95%97%E3%83%BB%E3%83%AA%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/GVM_043_%E3%81%8A%E7%A5%9D%E3%81%84_%E6%98%8E%E3%82%8B%E3%81%84%E5%92%8C%E9%9F%B3.wav",
+    "duration": 1.3,
+    "sizeBytes": 374444
+  },
+  {
+    "id": "sfx-dbc18915886f23094a31e19af4751768",
+    "name": "GVM_044_不正解_低いブブッ.wav",
+    "category": "正解・失敗・リアクション",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%AD%A3%E8%A7%A3%E3%83%BB%E5%A4%B1%E6%95%97%E3%83%BB%E3%83%AA%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/GVM_044_%E4%B8%8D%E6%AD%A3%E8%A7%A3_%E4%BD%8E%E3%81%84%E3%83%96%E3%83%96%E3%83%83.wav",
+    "duration": 0.61,
+    "sizeBytes": 175724
+  },
+  {
+    "id": "sfx-60d884f980c5ee6e16d0adb0e781518b",
+    "name": "GVM_045_残念_プワーン.wav",
+    "category": "正解・失敗・リアクション",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%AD%A3%E8%A7%A3%E3%83%BB%E5%A4%B1%E6%95%97%E3%83%BB%E3%83%AA%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/GVM_045_%E6%AE%8B%E5%BF%B5_%E3%83%97%E3%83%AF%E3%83%BC%E3%83%B3.wav",
+    "duration": 0.83,
+    "sizeBytes": 239084
+  },
+  {
+    "id": "sfx-03650c8dec107b56081e06c8b45e4c29",
+    "name": "GVM_046_疑問_ひょいん.wav",
+    "category": "正解・失敗・リアクション",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%AD%A3%E8%A7%A3%E3%83%BB%E5%A4%B1%E6%95%97%E3%83%BB%E3%83%AA%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/GVM_046_%E7%96%91%E5%95%8F_%E3%81%B2%E3%82%87%E3%81%84%E3%82%93.wav",
+    "duration": 0.58,
+    "sizeBytes": 167084
+  },
+  {
+    "id": "sfx-c44a11e2bd62d18b3521dd41ae0f2402",
+    "name": "GVM_047_驚き_きゅぴっ.wav",
+    "category": "正解・失敗・リアクション",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%AD%A3%E8%A7%A3%E3%83%BB%E5%A4%B1%E6%95%97%E3%83%BB%E3%83%AA%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/GVM_047_%E9%A9%9A%E3%81%8D_%E3%81%8D%E3%82%85%E3%81%B4%E3%81%A3.wav",
+    "duration": 0.41,
+    "sizeBytes": 118124
+  },
+  {
+    "id": "sfx-7639e76446e615cb25843f0312ceb748",
+    "name": "GVM_048_困惑_ゆらゆら.wav",
+    "category": "正解・失敗・リアクション",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%AD%A3%E8%A7%A3%E3%83%BB%E5%A4%B1%E6%95%97%E3%83%BB%E3%83%AA%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/GVM_048_%E5%9B%B0%E6%83%91_%E3%82%86%E3%82%89%E3%82%86%E3%82%89.wav",
+    "duration": 0.95,
+    "sizeBytes": 273644
+  },
+  {
+    "id": "sfx-e43c6a6386a4cdb76e689ab1d6192545",
+    "name": "GVM_049_バネのツッコミ_びよん.wav",
+    "category": "正解・失敗・リアクション",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%AD%A3%E8%A7%A3%E3%83%BB%E5%A4%B1%E6%95%97%E3%83%BB%E3%83%AA%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/GVM_049_%E3%83%90%E3%83%8D%E3%81%AE%E3%83%84%E3%83%83%E3%82%B3%E3%83%9F_%E3%81%B3%E3%82%88%E3%82%93.wav",
+    "duration": 0.84,
+    "sizeBytes": 241964
+  },
+  {
+    "id": "sfx-afd7a74f8ac580fe61115733fddffc26",
+    "name": "GVM_050_連続リアクション_ぽよぽよ.wav",
+    "category": "正解・失敗・リアクション",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%AD%A3%E8%A7%A3%E3%83%BB%E5%A4%B1%E6%95%97%E3%83%BB%E3%83%AA%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/GVM_050_%E9%80%A3%E7%B6%9A%E3%83%AA%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3_%E3%81%BD%E3%82%88%E3%81%BD%E3%82%88.wav",
+    "duration": 0.74,
+    "sizeBytes": 213164
   },
   {
     "id": "sfx-d3345c844aabed393d911ced2e5c8169",
@@ -174,10 +790,186 @@
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%89%93%E6%92%83%E3%83%BB%E3%83%92%E3%83%83%E3%83%88/1.mp3"
   },
   {
+    "id": "sfx-78066a09b3854ec8d809a46ede05dede",
+    "name": "GVM_008_強調_ドン.wav",
+    "category": "打撃・ヒット",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%89%93%E6%92%83%E3%83%BB%E3%83%92%E3%83%83%E3%83%88/GVM_008_%E5%BC%B7%E8%AA%BF_%E3%83%89%E3%83%B3.wav",
+    "duration": 0.7,
+    "sizeBytes": 201644
+  },
+  {
+    "id": "sfx-acd921059bf0eda636030553115d947c",
+    "name": "GVM_071_柔らかいパンチ_ボフッ.wav",
+    "category": "打撃・ヒット",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%89%93%E6%92%83%E3%83%BB%E3%83%92%E3%83%83%E3%83%88/GVM_071_%E6%9F%94%E3%82%89%E3%81%8B%E3%81%84%E3%83%91%E3%83%B3%E3%83%81_%E3%83%9C%E3%83%95%E3%83%83.wav",
+    "duration": 0.46,
+    "sizeBytes": 132524
+  },
+  {
+    "id": "sfx-005809889812cfdf7adb16d9930cb0b8",
+    "name": "GVM_072_重いタイトル_ドーン.wav",
+    "category": "打撃・ヒット",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%89%93%E6%92%83%E3%83%BB%E3%83%92%E3%83%83%E3%83%88/GVM_072_%E9%87%8D%E3%81%84%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB_%E3%83%89%E3%83%BC%E3%83%B3.wav",
+    "duration": 1.12,
+    "sizeBytes": 322604
+  },
+  {
+    "id": "sfx-ff1590caac4d419905f205d9d5653168",
+    "name": "GVM_073_硬いヒット_ゴッ.wav",
+    "category": "打撃・ヒット",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%89%93%E6%92%83%E3%83%BB%E3%83%92%E3%83%83%E3%83%88/GVM_073_%E7%A1%AC%E3%81%84%E3%83%92%E3%83%83%E3%83%88_%E3%82%B4%E3%83%83.wav",
+    "duration": 0.31,
+    "sizeBytes": 89324
+  },
+  {
+    "id": "sfx-5850726a8283c1823acfda8c18d39023",
+    "name": "GVM_074_明るいアクセント_パシャン.wav",
+    "category": "打撃・ヒット",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%89%93%E6%92%83%E3%83%BB%E3%83%92%E3%83%83%E3%83%88/GVM_074_%E6%98%8E%E3%82%8B%E3%81%84%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88_%E3%83%91%E3%82%B7%E3%83%A3%E3%83%B3.wav",
+    "duration": 0.55,
+    "sizeBytes": 158444
+  },
+  {
+    "id": "sfx-02552bd3fab540d206eb969ed64b7105",
+    "name": "GVM_075_金属ヒット_カーン.wav",
+    "category": "打撃・ヒット",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%89%93%E6%92%83%E3%83%BB%E3%83%92%E3%83%83%E3%83%88/GVM_075_%E9%87%91%E5%B1%9E%E3%83%92%E3%83%83%E3%83%88_%E3%82%AB%E3%83%BC%E3%83%B3.wav",
+    "duration": 1.04,
+    "sizeBytes": 299564
+  },
+  {
+    "id": "sfx-9e9d16ede5567bc4427722cc3c1c8d6c",
+    "name": "GVM_076_低い太鼓_ドム.wav",
+    "category": "打撃・ヒット",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%89%93%E6%92%83%E3%83%BB%E3%83%92%E3%83%83%E3%83%88/GVM_076_%E4%BD%8E%E3%81%84%E5%A4%AA%E9%BC%93_%E3%83%89%E3%83%A0.wav",
+    "duration": 0.66,
+    "sizeBytes": 190124
+  },
+  {
+    "id": "sfx-7524f91ff66ca40a78f413aba94fe0a9",
+    "name": "GVM_077_スネア風_タン.wav",
+    "category": "打撃・ヒット",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%89%93%E6%92%83%E3%83%BB%E3%83%92%E3%83%83%E3%83%88/GVM_077_%E3%82%B9%E3%83%8D%E3%82%A2%E9%A2%A8_%E3%82%BF%E3%83%B3.wav",
+    "duration": 0.45,
+    "sizeBytes": 129644
+  },
+  {
+    "id": "sfx-63b92fd4dae2ab4f8fab166035936df3",
+    "name": "GVM_078_手拍子風_パチン.wav",
+    "category": "打撃・ヒット",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%89%93%E6%92%83%E3%83%BB%E3%83%92%E3%83%83%E3%83%88/GVM_078_%E6%89%8B%E6%8B%8D%E5%AD%90%E9%A2%A8_%E3%83%91%E3%83%81%E3%83%B3.wav",
+    "duration": 0.38,
+    "sizeBytes": 109484
+  },
+  {
+    "id": "sfx-57e7013210d770d74117d06705d5e7bc",
+    "name": "GVM_079_こもった打音_トン.wav",
+    "category": "打撃・ヒット",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%89%93%E6%92%83%E3%83%BB%E3%83%92%E3%83%83%E3%83%88/GVM_079_%E3%81%93%E3%82%82%E3%81%A3%E3%81%9F%E6%89%93%E9%9F%B3_%E3%83%88%E3%83%B3.wav",
+    "duration": 0.36,
+    "sizeBytes": 103724
+  },
+  {
+    "id": "sfx-d069c613eda6cc2c4aeaf4587ba59539",
+    "name": "GVM_080_二連ノック_ドドン.wav",
+    "category": "打撃・ヒット",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E6%89%93%E6%92%83%E3%83%BB%E3%83%92%E3%83%83%E3%83%88/GVM_080_%E4%BA%8C%E9%80%A3%E3%83%8E%E3%83%83%E3%82%AF_%E3%83%89%E3%83%89%E3%83%B3.wav",
+    "duration": 0.56,
+    "sizeBytes": 161324
+  },
+  {
     "id": "sfx-c0b3d227331fb9c711f9270c476a9ee5",
     "name": "1.mp3",
     "category": "跳ねる・バウンド",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E8%B7%B3%E3%81%AD%E3%82%8B%E3%83%BB%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89/1.mp3"
+  },
+  {
+    "id": "sfx-ad0c71455dca92a9ea7fde36817b0e21",
+    "name": "GVM_003_通知_ピコン.wav",
+    "category": "通知・チャイム",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%80%9A%E7%9F%A5%E3%83%BB%E3%83%81%E3%83%A3%E3%82%A4%E3%83%A0/GVM_003_%E9%80%9A%E7%9F%A5_%E3%83%94%E3%82%B3%E3%83%B3.wav",
+    "duration": 0.69,
+    "sizeBytes": 198764
+  },
+  {
+    "id": "sfx-15aa50bea3172ae46a2b2348b2184c67",
+    "name": "GVM_031_小さな通知_ポーン.wav",
+    "category": "通知・チャイム",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%80%9A%E7%9F%A5%E3%83%BB%E3%83%81%E3%83%A3%E3%82%A4%E3%83%A0/GVM_031_%E5%B0%8F%E3%81%95%E3%81%AA%E9%80%9A%E7%9F%A5_%E3%83%9D%E3%83%BC%E3%83%B3.wav",
+    "duration": 0.84,
+    "sizeBytes": 241964
+  },
+  {
+    "id": "sfx-8bac0d9bb7c95ae4abf5fd07eebc6ba2",
+    "name": "GVM_032_ガラスの通知_チリン.wav",
+    "category": "通知・チャイム",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%80%9A%E7%9F%A5%E3%83%BB%E3%83%81%E3%83%A3%E3%82%A4%E3%83%A0/GVM_032_%E3%82%AC%E3%83%A9%E3%82%B9%E3%81%AE%E9%80%9A%E7%9F%A5_%E3%83%81%E3%83%AA%E3%83%B3.wav",
+    "duration": 0.99,
+    "sizeBytes": 285164
+  },
+  {
+    "id": "sfx-98aa350b2c94ea4b942fa0ca46acfd1c",
+    "name": "GVM_033_三音メッセージ_ピポリン.wav",
+    "category": "通知・チャイム",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%80%9A%E7%9F%A5%E3%83%BB%E3%83%81%E3%83%A3%E3%82%A4%E3%83%A0/GVM_033_%E4%B8%89%E9%9F%B3%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8_%E3%83%94%E3%83%9D%E3%83%AA%E3%83%B3.wav",
+    "duration": 0.9,
+    "sizeBytes": 259244
+  },
+  {
+    "id": "sfx-4587709901a6ef6853e761d611fb9c1d",
+    "name": "GVM_034_木琴通知_コロリン.wav",
+    "category": "通知・チャイム",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%80%9A%E7%9F%A5%E3%83%BB%E3%83%81%E3%83%A3%E3%82%A4%E3%83%A0/GVM_034_%E6%9C%A8%E7%90%B4%E9%80%9A%E7%9F%A5_%E3%82%B3%E3%83%AD%E3%83%AA%E3%83%B3.wav",
+    "duration": 0.82,
+    "sizeBytes": 236204
+  },
+  {
+    "id": "sfx-644af0ba6c304f4e781aefc0c44706f3",
+    "name": "GVM_035_控えめな通知_トロン.wav",
+    "category": "通知・チャイム",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%80%9A%E7%9F%A5%E3%83%BB%E3%83%81%E3%83%A3%E3%82%A4%E3%83%A0/GVM_035_%E6%8E%A7%E3%81%88%E3%82%81%E3%81%AA%E9%80%9A%E7%9F%A5_%E3%83%88%E3%83%AD%E3%83%B3.wav",
+    "duration": 0.9,
+    "sizeBytes": 259244
+  },
+  {
+    "id": "sfx-03c0c729aa7a49fdaa2895d33dbc6905",
+    "name": "GVM_036_呼び出しベル_ティロン.wav",
+    "category": "通知・チャイム",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%80%9A%E7%9F%A5%E3%83%BB%E3%83%81%E3%83%A3%E3%82%A4%E3%83%A0/GVM_036_%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%97%E3%83%99%E3%83%AB_%E3%83%86%E3%82%A3%E3%83%AD%E3%83%B3.wav",
+    "duration": 1.4,
+    "sizeBytes": 403244
+  },
+  {
+    "id": "sfx-352b6436282078488a9f15f6a55a8c07",
+    "name": "GVM_037_注意の二音_ピポッ.wav",
+    "category": "通知・チャイム",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%80%9A%E7%9F%A5%E3%83%BB%E3%83%81%E3%83%A3%E3%82%A4%E3%83%A0/GVM_037_%E6%B3%A8%E6%84%8F%E3%81%AE%E4%BA%8C%E9%9F%B3_%E3%83%94%E3%83%9D%E3%83%83.wav",
+    "duration": 0.7,
+    "sizeBytes": 201644
+  },
+  {
+    "id": "sfx-0f1b201e3fd497c4706107caf4b92e37",
+    "name": "GVM_038_タイマー_ピッピッピッ.wav",
+    "category": "通知・チャイム",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%80%9A%E7%9F%A5%E3%83%BB%E3%83%81%E3%83%A3%E3%82%A4%E3%83%A0/GVM_038_%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC_%E3%83%94%E3%83%83%E3%83%94%E3%83%83%E3%83%94%E3%83%83.wav",
+    "duration": 0.99,
+    "sizeBytes": 285164
+  },
+  {
+    "id": "sfx-864d031b005dc22a8abb61636979634c",
+    "name": "GVM_039_処理完了_ティロリロン.wav",
+    "category": "通知・チャイム",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%80%9A%E7%9F%A5%E3%83%BB%E3%83%81%E3%83%A3%E3%82%A4%E3%83%A0/GVM_039_%E5%87%A6%E7%90%86%E5%AE%8C%E4%BA%86_%E3%83%86%E3%82%A3%E3%83%AD%E3%83%AA%E3%83%AD%E3%83%B3.wav",
+    "duration": 1.07,
+    "sizeBytes": 308204
+  },
+  {
+    "id": "sfx-f9fe79f56bb9e7e42ecedfcabe04a86d",
+    "name": "GVM_040_柔らかいお知らせ_ルロン.wav",
+    "category": "通知・チャイム",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%80%9A%E7%9F%A5%E3%83%BB%E3%83%81%E3%83%A3%E3%82%A4%E3%83%A0/GVM_040_%E6%9F%94%E3%82%89%E3%81%8B%E3%81%84%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B_%E3%83%AB%E3%83%AD%E3%83%B3.wav",
+    "duration": 1.08,
+    "sizeBytes": 311084
   },
   {
     "id": "sfx-fb4e261119be5aebcb96124311aaea7b",
@@ -190,6 +982,94 @@
     "name": "1.mp3",
     "category": "風切り音・スイング",
     "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%A2%A8%E5%88%87%E3%82%8A%E9%9F%B3%E3%83%BB%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0/1.mp3"
+  },
+  {
+    "id": "sfx-8b62942d982e6cf5ab6ca4bf919d9d96",
+    "name": "GVM_006_切り替え_シュッ.wav",
+    "category": "風切り音・スイング",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%A2%A8%E5%88%87%E3%82%8A%E9%9F%B3%E3%83%BB%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0/GVM_006_%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88_%E3%82%B7%E3%83%A5%E3%83%83.wav",
+    "duration": 0.42,
+    "sizeBytes": 121004
+  },
+  {
+    "id": "sfx-b8748d7efec3d6e4c8f6f62c8f8dfead",
+    "name": "GVM_051_横切り_左から右.wav",
+    "category": "風切り音・スイング",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%A2%A8%E5%88%87%E3%82%8A%E9%9F%B3%E3%83%BB%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0/GVM_051_%E6%A8%AA%E5%88%87%E3%82%8A_%E5%B7%A6%E3%81%8B%E3%82%89%E5%8F%B3.wav",
+    "duration": 0.39,
+    "sizeBytes": 112364
+  },
+  {
+    "id": "sfx-5079513ca0fb3fbf329f291bf3f89137",
+    "name": "GVM_052_横切り_右から左.wav",
+    "category": "風切り音・スイング",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%A2%A8%E5%88%87%E3%82%8A%E9%9F%B3%E3%83%BB%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0/GVM_052_%E6%A8%AA%E5%88%87%E3%82%8A_%E5%8F%B3%E3%81%8B%E3%82%89%E5%B7%A6.wav",
+    "duration": 0.45,
+    "sizeBytes": 129644
+  },
+  {
+    "id": "sfx-689a8f56ffacf2fc9f908f9ad2444d7b",
+    "name": "GVM_053_軽い風_ヒュッ.wav",
+    "category": "風切り音・スイング",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%A2%A8%E5%88%87%E3%82%8A%E9%9F%B3%E3%83%BB%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0/GVM_053_%E8%BB%BD%E3%81%84%E9%A2%A8_%E3%83%92%E3%83%A5%E3%83%83.wav",
+    "duration": 0.3,
+    "sizeBytes": 86444
+  },
+  {
+    "id": "sfx-45ffad1da208fb083b1c3205372bf185",
+    "name": "GVM_054_重い風_ブンッ.wav",
+    "category": "風切り音・スイング",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%A2%A8%E5%88%87%E3%82%8A%E9%9F%B3%E3%83%BB%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0/GVM_054_%E9%87%8D%E3%81%84%E9%A2%A8_%E3%83%96%E3%83%B3%E3%83%83.wav",
+    "duration": 0.51,
+    "sizeBytes": 146924
+  },
+  {
+    "id": "sfx-3918b47b07aad7c74ab42be74db3381a",
+    "name": "GVM_055_ムチ風_ヒュパン.wav",
+    "category": "風切り音・スイング",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%A2%A8%E5%88%87%E3%82%8A%E9%9F%B3%E3%83%BB%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0/GVM_055_%E3%83%A0%E3%83%81%E9%A2%A8_%E3%83%92%E3%83%A5%E3%83%91%E3%83%B3.wav",
+    "duration": 0.41,
+    "sizeBytes": 118124
+  },
+  {
+    "id": "sfx-28a31230622c5a2f0ac42a76c834a550",
+    "name": "GVM_056_二連スワイプ_シュシュッ.wav",
+    "category": "風切り音・スイング",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%A2%A8%E5%88%87%E3%82%8A%E9%9F%B3%E3%83%BB%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0/GVM_056_%E4%BA%8C%E9%80%A3%E3%82%B9%E3%83%AF%E3%82%A4%E3%83%97_%E3%82%B7%E3%83%A5%E3%82%B7%E3%83%A5%E3%83%83.wav",
+    "duration": 0.54,
+    "sizeBytes": 155564
+  },
+  {
+    "id": "sfx-254c08dfee5618a43f7a0d6403fb5337",
+    "name": "GVM_057_回転_シュルル.wav",
+    "category": "風切り音・スイング",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%A2%A8%E5%88%87%E3%82%8A%E9%9F%B3%E3%83%BB%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0/GVM_057_%E5%9B%9E%E8%BB%A2_%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%AB.wav",
+    "duration": 0.72,
+    "sizeBytes": 207404
+  },
+  {
+    "id": "sfx-e31c29367e6cad6c12f9b8e836a70b34",
+    "name": "GVM_058_高速ズーム_ジップ.wav",
+    "category": "風切り音・スイング",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%A2%A8%E5%88%87%E3%82%8A%E9%9F%B3%E3%83%BB%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0/GVM_058_%E9%AB%98%E9%80%9F%E3%82%BA%E3%83%BC%E3%83%A0_%E3%82%B8%E3%83%83%E3%83%97.wav",
+    "duration": 0.34,
+    "sizeBytes": 97964
+  },
+  {
+    "id": "sfx-8657288889be31751469178e2c67f101",
+    "name": "GVM_059_ブラシ風_サッ.wav",
+    "category": "風切り音・スイング",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%A2%A8%E5%88%87%E3%82%8A%E9%9F%B3%E3%83%BB%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0/GVM_059_%E3%83%96%E3%83%A9%E3%82%B7%E9%A2%A8_%E3%82%B5%E3%83%83.wav",
+    "duration": 0.37,
+    "sizeBytes": 106604
+  },
+  {
+    "id": "sfx-f19d782bcd79fcd6ff3ba9b001062bed",
+    "name": "GVM_060_吸い込み_スヒュッ.wav",
+    "category": "風切り音・スイング",
+    "url": "https://raw.githubusercontent.com/B4129/GVM_Releases/main/sfx/%E9%A2%A8%E5%88%87%E3%82%8A%E9%9F%B3%E3%83%BB%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0/GVM_060_%E5%90%B8%E3%81%84%E8%BE%BC%E3%81%BF_%E3%82%B9%E3%83%92%E3%83%A5%E3%83%83.wav",
+    "duration": 0.58,
+    "sizeBytes": 167084
   },
   {
     "id": "sfx-05dc2b525c3d59ea1e47a76d0f004ca5",
