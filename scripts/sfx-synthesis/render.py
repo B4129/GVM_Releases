@@ -17,16 +17,24 @@ from presets import PRESETS
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--output', type=Path, required=True)
+    parser.add_argument('--registry', type=Path,
+                        default=Path(__file__).resolve().parents[2] / 'sfx-registry.json')
     args = parser.parse_args()
     output = args.output.resolve()
+    registry = json.loads(args.registry.read_text(encoding='utf-8'))
+    assert registry['formatVersion'] == 1
+    assets = {asset['presetNumber']: asset for asset in registry['assets'] if 'presetNumber' in asset}
     families = {name: getattr(module, name) for module, names in [
         (voices, ['pop', 'clicks', 'chime', 'reaction', 'retro']),
         (motion, ['whoosh', 'impact', 'transition', 'sparkle', 'texture'])]
         for name in names}
     records = []
     for preset in PRESETS:
-        filename = f"GVM_{preset['number']:03d}_{preset['name']}.wav"
-        seed = int.from_bytes(hashlib.sha256(filename.encode('utf-8')).digest()[:8], 'little')
+        asset = assets[preset['number']]
+        filename = asset['name']
+        assert filename == f"{preset['name']}.wav" and asset['category'] == preset['category']
+        # Preserve the published waveform when its customer-facing name changes.
+        seed = int(asset['seed'])
         dsp.RNG = np.random.default_rng(seed)
         sound = families[preset['family']](preset['params'])
         sound = dsp.trim_tail(dsp.master(sound, rms_db=preset['level'], peak_db=-6))
@@ -47,6 +55,7 @@ def main():
         assert end_peak < -60, (filename, end_peak)
         assert np.max(np.abs(decoded[:4])) == 0 and np.max(np.abs(decoded[-8:])) == 0
         data = destination.read_bytes()
+        assert hashlib.sha256(data).hexdigest() == asset['sha256'], ('Published audio changed', filename)
         records.append(dict(number=preset['number'], name=filename,
             category=preset['category'], description=preset['description'],
             relativePath=relative.as_posix(), duration=round(len(decoded) / dsp.SR, 4),

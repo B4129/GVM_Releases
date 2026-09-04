@@ -1,0 +1,1780 @@
+{
+  "formatVersion": 1,
+  "assets": [
+    {
+      "id": "sfx-ed1417bd0253313646daee6232ebf23f",
+      "name": "ひらめき（キラーン）.wav",
+      "category": "キラキラ・魔法",
+      "duration": 1.36,
+      "sizeBytes": 391724,
+      "sha256": "eead88b944be1b8058bd907582aff5ea0b8961ef70859c0448ba6d033a5b4802",
+      "description": "発見、アイデア、アイテム紹介に。高音が散る透明なきらめき。",
+      "presetNumber": 9,
+      "aliases": [
+        "GVM_009_ひらめき_キラーン.wav"
+      ]
+    },
+    {
+      "id": "sfx-ef2934c5794f7fd0e3ad6335c6fb8de7",
+      "name": "ひらめき（小さなティン）.wav",
+      "category": "キラキラ・魔法",
+      "duration": 0.87,
+      "sizeBytes": 250604,
+      "sha256": "42fd3c232956ee35aa08f7de623f6bb463d1c633c839f40034c3ff6228cae42b",
+      "description": "小さな光や一瞬のひらめき",
+      "presetNumber": 81,
+      "aliases": [
+        "GVM_081_小さなきらめき_ティン.wav"
+      ],
+      "seed": "13535064065280494757"
+    },
+    {
+      "id": "sfx-a59463d53a98c3dc09880fbd00699a0e",
+      "name": "光の移動（キララ）.wav",
+      "category": "キラキラ・魔法",
+      "duration": 1.12,
+      "sizeBytes": 322604,
+      "sha256": "44c39368f7d91bc4b895475e30a0abb284d853aa0b30294c7dc37b9afba45f2e",
+      "description": "光が走るアニメーション",
+      "presetNumber": 82,
+      "aliases": [
+        "GVM_082_光の軌跡_キララ.wav"
+      ],
+      "seed": "13374983676044454994"
+    },
+    {
+      "id": "sfx-b6b567bbb4b8cb226e8ad765edb20982",
+      "name": "商品紹介（透明なベル）.wav",
+      "category": "キラキラ・魔法",
+      "duration": 1.48,
+      "sizeBytes": 426284,
+      "sha256": "2e775693ad4d7ca3356992687c50dc03c437ae6e3aab913dac6897ca269a7808",
+      "description": "透明感のある発見や商品紹介",
+      "presetNumber": 83,
+      "aliases": [
+        "GVM_083_透明なベル_リーン.wav"
+      ],
+      "seed": "230059459496315285"
+    },
+    {
+      "id": "sfx-0e17e077fa3e5e75ceb0194bf21cecfc",
+      "name": "宝箱（きらめく登場音）.wav",
+      "category": "キラキラ・魔法",
+      "duration": 1.53,
+      "sizeBytes": 440684,
+      "sha256": "485ca2b05cf45959f45c515babde4fb3776c10be2f7f908a3d90b517a1d39cdd",
+      "description": "獲得アイテムやご褒美の紹介",
+      "presetNumber": 84,
+      "aliases": [
+        "GVM_084_宝箱風_きらめく登場.wav"
+      ],
+      "seed": "16926385785283819688"
+    },
+    {
+      "id": "sfx-f5bf4d6229b9971c6bb5d3561fd28d86",
+      "name": "光の下降（キラリラ）.wav",
+      "category": "キラキラ・魔法",
+      "duration": 1.17,
+      "sizeBytes": 337004,
+      "sha256": "5066782981adf2c7bd55a970d8712fab089bac7271a790c45a87939e6bb0b183",
+      "description": "光が降りる、静かに締めくくる",
+      "presetNumber": 85,
+      "aliases": [
+        "GVM_085_降りる光_キラリラ.wav"
+      ],
+      "seed": "2975365860141912518"
+    },
+    {
+      "id": "sfx-9ac3e625ecce20f0fffd1cbd2b4c73b3",
+      "name": "星の広がり（キラキラ）.wav",
+      "category": "キラキラ・魔法",
+      "duration": 1.18,
+      "sizeBytes": 339884,
+      "sha256": "278be353b5e971777b439a20fa368040a5223fa838719e7408d031857dce4c54",
+      "description": "複数の光や星を散らす",
+      "presetNumber": 86,
+      "aliases": [
+        "GVM_086_光の粒_きらきら.wav"
+      ],
+      "seed": "8591558559885085305"
+    },
+    {
+      "id": "sfx-ad1ac91bda224ff2a2a3cd8ddad2010c",
+      "name": "魔法（フワキラ）.wav",
+      "category": "キラキラ・魔法",
+      "duration": 1.65,
+      "sizeBytes": 475244,
+      "sha256": "988df3bfa157ceada03707db1cd09ceab07f6a3e759c7714451fd08fb6d8906e",
+      "description": "柔らかく広がる魔法や変身",
+      "presetNumber": 87,
+      "aliases": [
+        "GVM_087_魔法の広がり_ふわキラ.wav"
+      ],
+      "seed": "12274073603469429065"
+    },
+    {
+      "id": "sfx-ccf2b71eee2eb9d1597e16f90e8bb1e4",
+      "name": "輝き（2音ティリリン）.wav",
+      "category": "キラキラ・魔法",
+      "duration": 1.13,
+      "sizeBytes": 325484,
+      "sha256": "b56ff174f6954258e029b9f934f28075d408d85d1d3f088e206ef2afbd19fd06",
+      "description": "二つの輝きや比較表示",
+      "presetNumber": 88,
+      "aliases": [
+        "GVM_088_二つの星_ティリリン.wav"
+      ],
+      "seed": "3555226133028437290"
+    },
+    {
+      "id": "sfx-92d03aa37fbd3b1a43f73610bace7557",
+      "name": "商品紹介（透明なシャラン）.wav",
+      "category": "キラキラ・魔法",
+      "duration": 1.44,
+      "sizeBytes": 414764,
+      "sha256": "faad0a32e29e49828c554e0082d2098a61b3c23f5b297d27a0fc9092c3c6a958",
+      "description": "透明な和音で重要な物を見せる",
+      "presetNumber": 89,
+      "aliases": [
+        "GVM_089_クリスタル和音_シャラン.wav"
+      ],
+      "seed": "13099558445000877302"
+    },
+    {
+      "id": "sfx-c28f7fa2208b61cffcbe6bb2e86b2138",
+      "name": "流れ星（下降するきらめき）.wav",
+      "category": "キラキラ・魔法",
+      "duration": 0.89,
+      "sizeBytes": 256364,
+      "sha256": "0e6eb9aee4eef53a892a7b22d8944975a489d65e99ea0f9f8eedae40841d3261",
+      "description": "小さな流れ星や落ちる光",
+      "presetNumber": 90,
+      "aliases": [
+        "GVM_090_流れ星_きらり落下.wav"
+      ],
+      "seed": "11463057119108146663"
+    },
+    {
+      "id": "sfx-37ee792cec2236fd0c0d171c35ab7afd",
+      "name": "1.mp3",
+      "category": "クリック・選択",
+      "sha256": "fef47570ab0cc19670a4c71fedaee4da5cb2a8e69cf61cfaf45e890aa095c9ff",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-b1767fd7d4a8c5192da48d0981bbaa58",
+      "name": "2.mp3",
+      "category": "クリック・選択",
+      "sha256": "737d0aa085364d93803270599de1bfba306ca6cd3332ac6d0969bac056b3c628",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-4a4893ff56730399409c8f01cf97b0ef",
+      "name": "3.mp3",
+      "category": "クリック・選択",
+      "sha256": "3ac88baa762c93f502d88c3fda19027aac3653ca6feb99381c5042cd0c8930d8",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-74d78b4db3a388c244dbd3e0504a4b2b",
+      "name": "4.mp3",
+      "category": "クリック・選択",
+      "sha256": "cfd0ac71143d45ab40c5136173097db85338f7cea9ecd632f165028f8682da37",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-5db1b7310ddb791bf619e4c0f8cb0988",
+      "name": "ボタン操作（カチッ）.wav",
+      "category": "クリック・選択",
+      "duration": 0.15,
+      "sizeBytes": 43244,
+      "sha256": "47be4cf703c2fd8e0b48a106806d398413de1fb559677e569f85edf9b958247f",
+      "description": "ボタン押下、選択、手順説明に。乾いた小さなクリック音。",
+      "presetNumber": 2,
+      "aliases": [
+        "GVM_002_操作_カチッ.wav"
+      ]
+    },
+    {
+      "id": "sfx-46df076db6e91d2cc005811eef896357",
+      "name": "マウスクリック（カチッ）.wav",
+      "category": "クリック・選択",
+      "duration": 0.15,
+      "sizeBytes": 43244,
+      "sha256": "ab1cd1e356738f799ab58cd6ea2bf4349422510e632ed58077a6783adad63818",
+      "description": "画面操作でボタンを押す",
+      "presetNumber": 21,
+      "aliases": [
+        "GVM_021_マウスクリック風_カチッ.wav"
+      ],
+      "seed": "11478731956042592239"
+    },
+    {
+      "id": "sfx-6daa6c89e6c6b443cd61de5f64196117",
+      "name": "スイッチ切替（カチカチ）.wav",
+      "category": "クリック・選択",
+      "duration": 0.19,
+      "sizeBytes": 54764,
+      "sha256": "55e7de99b7ba75ee399667b836aef7d50821ab9e73f5045759200c257f3000a2",
+      "description": "オンとオフの切り替え",
+      "presetNumber": 22,
+      "aliases": [
+        "GVM_022_トグル切り替え_カチカチ.wav"
+      ],
+      "seed": "17654022903899488100"
+    },
+    {
+      "id": "sfx-8c0609709b35c5033f4c331292ab2298",
+      "name": "スイッチ切替（重いガチッ）.wav",
+      "category": "クリック・選択",
+      "duration": 0.18,
+      "sizeBytes": 51884,
+      "sha256": "066bfc5c23c923ca8cacb70a37726cebf81e5ce17055a6bd7459e679189664eb",
+      "description": "機械的な切り替えや確定",
+      "presetNumber": 23,
+      "aliases": [
+        "GVM_023_重めのスイッチ_ガチッ.wav"
+      ],
+      "seed": "10974328551022997164"
+    },
+    {
+      "id": "sfx-664038ceacb42fda729b77d124ddba6f",
+      "name": "メニュー選択（木のコツ）.wav",
+      "category": "クリック・選択",
+      "duration": 0.16,
+      "sizeBytes": 46124,
+      "sha256": "ea941f312e71d01b0366ee4d9f523dce20d71f1c50aaffa7a9a4d77d135f9409",
+      "description": "落ち着いたメニュー選択",
+      "presetNumber": 24,
+      "aliases": [
+        "GVM_024_木の選択音_コツ.wav"
+      ],
+      "seed": "10979877273529739421"
+    },
+    {
+      "id": "sfx-f94039c6c12076acb3c52d7432c97bb0",
+      "name": "メニュー選択（電子音チッ）.wav",
+      "category": "クリック・選択",
+      "duration": 0.15,
+      "sizeBytes": 43244,
+      "sha256": "29c45b7f3cea7305abfe726cdd3cae2917daa913092c278a87221cd071656c0e",
+      "description": "細かい選択や数値変更",
+      "presetNumber": 25,
+      "aliases": [
+        "GVM_025_電子選択音_チッ.wav"
+      ],
+      "seed": "8974653183198417070"
+    },
+    {
+      "id": "sfx-b7dee8d53fcf1d6f1d12e7286afa9fa2",
+      "name": "ボタン操作（金属音チンッ）.wav",
+      "category": "クリック・選択",
+      "duration": 0.21,
+      "sizeBytes": 60524,
+      "sha256": "97bcb42a146d017e019bf0a585aeea8bb8fc07fd87bf29ca30e6316b9a576657",
+      "description": "小さな金属風のボタン操作",
+      "presetNumber": 26,
+      "aliases": [
+        "GVM_026_金属ボタン_チンッ.wav"
+      ],
+      "seed": "16836440920285443996"
+    },
+    {
+      "id": "sfx-c0bfb92bee0aae64ba23848badc53ae1",
+      "name": "スクロール（コロロッ）.wav",
+      "category": "クリック・選択",
+      "duration": 0.3,
+      "sizeBytes": 86444,
+      "sha256": "14c6dfe02098255669d7d93888c1351202aeb987f50c2959907a76c509149261",
+      "description": "リストや数値を素早く送る",
+      "presetNumber": 27,
+      "aliases": [
+        "GVM_027_スクロール_コロロッ.wav"
+      ],
+      "seed": "2847742278218527661"
+    },
+    {
+      "id": "sfx-60e8d8929fe76ad01d0f6dd87fa3260d",
+      "name": "シャッター（カシャッ）.wav",
+      "category": "クリック・選択",
+      "duration": 0.25,
+      "sizeBytes": 72044,
+      "sha256": "a1e69b57055834bd9bdb36e1eed1b39386ede76bc07b2fe2b4593b1281fc4f83",
+      "description": "静止画の提示やスクリーンショット",
+      "presetNumber": 28,
+      "aliases": [
+        "GVM_028_シャッター_カシャッ.wav"
+      ],
+      "seed": "16386285486913550769"
+    },
+    {
+      "id": "sfx-d43897beabf6371e93c8c5fade88d4e1",
+      "name": "ボタン操作（コクッ・カチッ）.wav",
+      "category": "クリック・選択",
+      "duration": 0.26,
+      "sizeBytes": 74924,
+      "sha256": "fbd91a34d6cf55264ab6461ca608aa43ed31a2ad7aac897360af8d206812c593",
+      "description": "ボタンを押し込んで戻す演出",
+      "presetNumber": 29,
+      "aliases": [
+        "GVM_029_押して離す_コクッカチッ.wav"
+      ],
+      "seed": "4959579066954811386"
+    },
+    {
+      "id": "sfx-d37b47fa7a419b94f6aaa68ba18fa5c2",
+      "name": "スワイプ選択（シュチッ）.wav",
+      "category": "クリック・選択",
+      "duration": 0.21,
+      "sizeBytes": 60524,
+      "sha256": "5500e9b3fc20a08ecfc91f1362371ee6c62123540e1c8b3efc3b37c6c16d68a4",
+      "description": "スワイプして項目を選ぶ",
+      "presetNumber": 30,
+      "aliases": [
+        "GVM_030_スワイプ選択_シュチッ.wav"
+      ],
+      "seed": "5065790044954321156"
+    },
+    {
+      "id": "sfx-96561c971d874318c891eaacc47e4cda",
+      "name": "1.mp3",
+      "category": "ゲーム音・8bit",
+      "sha256": "44786977e04d7b8a20da21a5aa8db6b827500d7e218d16b37c843f3642538083",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-2738df63f7a1fcc1397af508d3bee270",
+      "name": "コイン獲得（ピリン）.wav",
+      "category": "ゲーム音・8bit",
+      "duration": 0.33,
+      "sizeBytes": 95084,
+      "sha256": "eef261dc20507b7b47aecf566865630cefa689bd838cdfb49910d889530035c2",
+      "description": "コインやポイントの獲得",
+      "presetNumber": 101,
+      "aliases": [
+        "GVM_101_コイン風_ピリン.wav"
+      ],
+      "seed": "3579346807199605554"
+    },
+    {
+      "id": "sfx-7a69f9a8fc9a5ab0fce603b463b95e63",
+      "name": "アイテム取得（ピロッ）.wav",
+      "category": "ゲーム音・8bit",
+      "duration": 0.31,
+      "sizeBytes": 89324,
+      "sha256": "506c43e7c555c8905d8143bf95149727a2b7b621f3eafcb79f5e8cbcbd2f3948",
+      "description": "小さなアイテムの取得",
+      "presetNumber": 102,
+      "aliases": [
+        "GVM_102_アイテム取得_ピロッ.wav"
+      ],
+      "seed": "3584933921936713545"
+    },
+    {
+      "id": "sfx-38ceeb6b16ed2da2521177c669b02e65",
+      "name": "ジャンプ（ピョイン）.wav",
+      "category": "ゲーム音・8bit",
+      "duration": 0.37,
+      "sizeBytes": 106604,
+      "sha256": "cbf053fbaa8736687e5f29d5ac34540dd259a7cdf53cf76e7f861644b62ce0f1",
+      "description": "レトロゲーム風のジャンプ",
+      "presetNumber": 103,
+      "aliases": [
+        "GVM_103_ジャンプ_ピョイン.wav"
+      ],
+      "seed": "2542371690325635706"
+    },
+    {
+      "id": "sfx-b3302075c1b91a0a61b5720ca8e702b8",
+      "name": "着地（ピョム）.wav",
+      "category": "ゲーム音・8bit",
+      "duration": 0.29,
+      "sizeBytes": 83564,
+      "sha256": "cf5723da23845123a863b9e824844bbd25932af43b8161a5b9db05026666b652",
+      "description": "着地や軽い衝突",
+      "presetNumber": 104,
+      "aliases": [
+        "GVM_104_着地_ピョム.wav"
+      ],
+      "seed": "11371524722445069363"
+    },
+    {
+      "id": "sfx-9cfd6db61ea1475f8924874bc364cb4b",
+      "name": "レベルアップ（上昇する音階）.wav",
+      "category": "ゲーム音・8bit",
+      "duration": 0.7,
+      "sizeBytes": 201644,
+      "sha256": "06fc4a248fb6c6229cf792c277538d8be3b5fbf73e60ba8e294edb232c796670",
+      "description": "成長やレベルアップの演出",
+      "presetNumber": 105,
+      "aliases": [
+        "GVM_105_レベルアップ_上昇音階.wav"
+      ],
+      "seed": "6208685160610490223"
+    },
+    {
+      "id": "sfx-441b033c26b0c970e4c55aa38021a432",
+      "name": "チェックポイント（ピポパン）.wav",
+      "category": "ゲーム音・8bit",
+      "duration": 0.55,
+      "sizeBytes": 158444,
+      "sha256": "b890f9267dbbb7afec19347a42e95848626b408804d0318b5e1ecf535823087c",
+      "description": "中間地点やセーブ完了",
+      "presetNumber": 106,
+      "aliases": [
+        "GVM_106_チェックポイント_ピポパン.wav"
+      ],
+      "seed": "3067711516678632422"
+    },
+    {
+      "id": "sfx-0948062388fff5da01b929503008d61a",
+      "name": "警告（交互の電子音）.wav",
+      "category": "ゲーム音・8bit",
+      "duration": 0.71,
+      "sizeBytes": 204524,
+      "sha256": "2b805a2e4476e28258ef4a3df2634257642e2de4d4fa16d1460899d75278fa27",
+      "description": "ゲーム風の注意や警告",
+      "presetNumber": 107,
+      "aliases": [
+        "GVM_107_警告_交互の電子音.wav"
+      ],
+      "seed": "1814534881387902003"
+    },
+    {
+      "id": "sfx-e7f9b1bf6974bc6091747fc4b80cde08",
+      "name": "カウントダウン（3・2・1・開始）.wav",
+      "category": "ゲーム音・8bit",
+      "duration": 1.6,
+      "sizeBytes": 460844,
+      "sha256": "cf6a5bc1926c8b09ab9e42aeada52a8f7f5f5b4b3a4030385c00547173f5e20f",
+      "description": "短いカウントダウンと開始合図",
+      "presetNumber": 108,
+      "aliases": [
+        "GVM_108_カウントダウン_三二一開始.wav"
+      ],
+      "seed": "14376228209141976756"
+    },
+    {
+      "id": "sfx-0e825182a2ce4f6fe15df05a227fc1bc",
+      "name": "パワーアップ（連続する上昇音）.wav",
+      "category": "ゲーム音・8bit",
+      "duration": 0.47,
+      "sizeBytes": 135404,
+      "sha256": "5031699e39ba3fb26cb34c03f6c84bf901a6021cc350264c874505be75000e24",
+      "description": "強化やエネルギーがたまる演出",
+      "presetNumber": 109,
+      "aliases": [
+        "GVM_109_パワーアップ_連続上昇.wav"
+      ],
+      "seed": "10680715264039191478"
+    },
+    {
+      "id": "sfx-1ba3a7519ed34fdb1be699afbfbac209",
+      "name": "パワーダウン（段階的な下降音）.wav",
+      "category": "ゲーム音・8bit",
+      "duration": 0.58,
+      "sizeBytes": 167084,
+      "sha256": "4fc91ee0c68eda39d6346493b746d801b5ddb8cb18b3fc1bbdd39fb56adbe998",
+      "description": "弱体化や電源が落ちる演出",
+      "presetNumber": 110,
+      "aliases": [
+        "GVM_110_パワーダウン_段階下降.wav"
+      ],
+      "seed": "5879160374537222822"
+    },
+    {
+      "id": "sfx-25f4c8b974f4d09f66eb44da435dd82c",
+      "name": "1.mp3",
+      "category": "コイン・決定音",
+      "sha256": "32974451e109446ab36ae43e8d2df64741e728307f954706c399a3a0cf6e0535",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-6112ffe7a90782187b76d8449fb8ef51",
+      "name": "1.mp3",
+      "category": "タイピング・キーボード",
+      "sha256": "8cdd05cd410a0268021ee9187024655211a05ced090e1a4aceed08964273e68f",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-d21f30f019f62f1973291a14b0cc0075",
+      "name": "2.mp3",
+      "category": "タイピング・キーボード",
+      "sha256": "ac1dbb4efda5c88474d39ab0dbea9b0ea1f8d259d6a4856a57171c1b56e3b7a8",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-6ad6714121cec810fd38df26ec938642",
+      "name": "3.mp3",
+      "category": "タイピング・キーボード",
+      "sha256": "5b472da3d463f8624c6ea5d538e3e4bbb47ef1c282146fd89bd55043a83a706c",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-009d2dc1a7c81d060d491fb8c7102b09",
+      "name": "4.mp3",
+      "category": "タイピング・キーボード",
+      "sha256": "47109c5f0ee7d37d2efb0ba14919f04059d0f7d6c820352acc3d030b818fcb87",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-6fa366e8584b2c0f8b1e203f8a86197f",
+      "name": "1.mp3",
+      "category": "ドア・扉",
+      "sha256": "9fcf14c94fcf87ed3a05019a9562dcb538ac1fadce54f62ba94df4fa2bd720ba",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-d4727eaee47781e8dddc78fa0e9032d4",
+      "name": "1.mp3",
+      "category": "ノック・木を叩く",
+      "sha256": "970ada5c3249f14bc339786984e21ff8580a3742b8ceff73995618cf2e773ccf",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-dec81cc60f0b8aa1786e329db86ba5ea",
+      "name": "1.mp3",
+      "category": "ファンファーレ",
+      "sha256": "cd62230f422ae7cb56b8414ec8756972900aa9f782c9263d3647d413a04d3dd4",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-17ccbdc96c1cb4b150c71be3218bba23",
+      "name": "1.mp3",
+      "category": "ポップアップ・出現",
+      "sha256": "a5b40c31ca4ac7037732ecfbc3bce6f613eb18329f4ba74bf6a6036cca4947ce",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-b9cad75ca49b58c1c498db1e45fe9613",
+      "name": "2.mp3",
+      "category": "ポップアップ・出現",
+      "sha256": "48f23356a9dd9ad709f569971ce15a7ac6931e38fd64ce4c613a3664e7f1d90c",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-2ef028bdfe820828ec386cc32866e14c",
+      "name": "3.mp3",
+      "category": "ポップアップ・出現",
+      "sha256": "7d4df31f1f0f5da1de9bcca945a03c2ccbe230edaa1ef1b25071fcbc5f8f328b",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-dcb60bce194ce9818d61fa7baae082e5",
+      "name": "4.mp3",
+      "category": "ポップアップ・出現",
+      "sha256": "71cc33225a15433189493faf31977d3fe87b6fc275a4b143d13486e4fc70ac79",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-0488d0687bc956434eed82cff81b766e",
+      "name": "5.mp3",
+      "category": "ポップアップ・出現",
+      "sha256": "56c3af227fc18f9c6ed6a8116541aba0b958d6564ade53b7dc9786870bd52d34",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-3be87407a1e1c95fe19cf1ac43683f45",
+      "name": "6.mp3",
+      "category": "ポップアップ・出現",
+      "sha256": "441194faa019a24ceb33aa8a7293668333bf97daeb2adcbc6d9f3ef69e8a334f",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-bc7d16378453ed65c82828f5e64578ea",
+      "name": "7.mp3",
+      "category": "ポップアップ・出現",
+      "sha256": "578eb5cb2b0d02d3f46cd81ac9a5d7bf8795359b137c3c9c368f910f7dea0afa",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-5116e3b73364a837e0227ee61a231f07",
+      "name": "8.mp3",
+      "category": "ポップアップ・出現",
+      "sha256": "d9a45a4dac2e5fc0202f627434e32e5f6634ec6373fe5ed7ca4df6c7f1cb6e3a",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-91f65088550cd749d6e1164a9d6377f5",
+      "name": "9.mp3",
+      "category": "ポップアップ・出現",
+      "sha256": "065b1c40ebcd86c27bd5ef143015a1da974d963c79e27d495afc1cdc53b231a3",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-c7e01d00fbebfdfe445859d34633d786",
+      "name": "10.mp3",
+      "category": "ポップアップ・出現",
+      "sha256": "0dbb0a019f288e2257a98af2fac2f2c3db41f9f184b4cd90b2b1831849ff3ed1",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-1057251b7b69a596561421414c420ceb",
+      "name": "テロップ出現（ポン）.wav",
+      "category": "ポップアップ・出現",
+      "duration": 0.3,
+      "sizeBytes": 86444,
+      "sha256": "884d59641c872d945c7eb3fa0eba0e0f2610a30708978e7afcfdc91c89784e85",
+      "description": "文字・アイコンが現れる瞬間に。柔らかく短いポップ音。",
+      "presetNumber": 1,
+      "aliases": [
+        "GVM_001_テロップ出現_ポン.wav"
+      ]
+    },
+    {
+      "id": "sfx-3fd4ed37b77dd91f418de86c85cb4345",
+      "name": "テロップ出現（プチッ）.wav",
+      "category": "ポップアップ・出現",
+      "duration": 0.24,
+      "sizeBytes": 69164,
+      "sha256": "6b3efe81a1a9e2652c0a46ab6a25209707efff4c787188d09c12691e97187fcf",
+      "description": "小さい字幕や箇条書きの出現",
+      "presetNumber": 11,
+      "aliases": [
+        "GVM_011_小さな文字_プチッ.wav"
+      ],
+      "seed": "11670683996921747879"
+    },
+    {
+      "id": "sfx-156c6b1180f125bc250f3094f5b2a3ef",
+      "name": "吹き出し出現（プニッ）.wav",
+      "category": "ポップアップ・出現",
+      "duration": 0.42,
+      "sizeBytes": 121004,
+      "sha256": "682ec6e0d3f7bec84d3fa1971f6caa3328d01418cf852e94263de199a6997192",
+      "description": "会話の吹き出しを柔らかく出す",
+      "presetNumber": 12,
+      "aliases": [
+        "GVM_012_やわらかい吹き出し_ぷにっ.wav"
+      ],
+      "seed": "6142699491422121097"
+    },
+    {
+      "id": "sfx-e4165d822c2bfc1f729490e1c7341847",
+      "name": "アイコン出現（ポコッ）.wav",
+      "category": "ポップアップ・出現",
+      "duration": 0.4,
+      "sizeBytes": 115244,
+      "sha256": "8e8f42fb3cce818d585c5018e1ecf8c362a083be510be5d55854f05966461868",
+      "description": "丸い図形やアイコンの出現",
+      "presetNumber": 13,
+      "aliases": [
+        "GVM_013_丸いアイコン_ぽこっ.wav"
+      ],
+      "seed": "18004166014221120604"
+    },
+    {
+      "id": "sfx-e5b6c58def729472d80d96b105bcf882",
+      "name": "テロップ出現（木のコポン）.wav",
+      "category": "ポップアップ・出現",
+      "duration": 0.3,
+      "sizeBytes": 86444,
+      "sha256": "ee4f6520e79a6e7e20a0f125bac7d22ccd469d220cd738ea10bb7b116db22068",
+      "description": "落ち着いた説明テロップ",
+      "presetNumber": 14,
+      "aliases": [
+        "GVM_014_木のポップ_コポン.wav"
+      ],
+      "seed": "14704687611913802854"
+    },
+    {
+      "id": "sfx-3b73310b1c09830185cd8802535e4ec6",
+      "name": "テロップ出現（低いボンッ）.wav",
+      "category": "ポップアップ・出現",
+      "duration": 0.44,
+      "sizeBytes": 126764,
+      "sha256": "727a95c7fc9edb4c1e7d7e0e2a85acf0c2f392152ca312edd4ea2514e953817d",
+      "description": "大きめの字幕や図形の出現",
+      "presetNumber": 15,
+      "aliases": [
+        "GVM_015_低い出現_ぼんっ.wav"
+      ],
+      "seed": "7709934810745767971"
+    },
+    {
+      "id": "sfx-12fd68634e320b6cbbd2e0f5fe07e866",
+      "name": "テロップ出現（軽いパフッ）.wav",
+      "category": "ポップアップ・出現",
+      "duration": 0.24,
+      "sizeBytes": 69164,
+      "sha256": "117bde250df708c552295c594c821e676cdad6cbd12478e6d849617fc0c52282",
+      "description": "明るいポップな文字の出現",
+      "presetNumber": 16,
+      "aliases": [
+        "GVM_016_軽い出現_ぱふっ.wav"
+      ],
+      "seed": "4720256369782274194"
+    },
+    {
+      "id": "sfx-106f1cc638d3ca2957a04557da3eb73c",
+      "name": "連続表示（2連ポポン）.wav",
+      "category": "ポップアップ・出現",
+      "duration": 0.37,
+      "sizeBytes": 106604,
+      "sha256": "cd83ecd2dc2fc32f8c0eaaa9f6d1816771f129c2f0abc9eaaa1dfaeb228f5572",
+      "description": "二つの項目を続けて表示",
+      "presetNumber": 17,
+      "aliases": [
+        "GVM_017_二段ポップ_ぽぽん.wav"
+      ],
+      "seed": "16084907282696400365"
+    },
+    {
+      "id": "sfx-7e99ab873b4f18ec5d09463728e25f7c",
+      "name": "連続表示（3連ポポポン）.wav",
+      "category": "ポップアップ・出現",
+      "duration": 0.43,
+      "sizeBytes": 123884,
+      "sha256": "33ebf044e8f0586841eab9a8ee91bd2d8a941ba594746304acc2425fd48a7202",
+      "description": "箇条書きや数字を順番に表示",
+      "presetNumber": 18,
+      "aliases": [
+        "GVM_018_三段ポップ_ぽぽぽん.wav"
+      ],
+      "seed": "1258985909909457637"
+    },
+    {
+      "id": "sfx-2b33084ec7d206e1876652a6e1d48206",
+      "name": "見出し出現（弾むプルン）.wav",
+      "category": "ポップアップ・出現",
+      "duration": 0.48,
+      "sizeBytes": 138284,
+      "sha256": "272ea0d76c38c2f6e2892294ae6bc94ed48739fa9f098ea4b96be4c00dbe4fc3",
+      "description": "見出しのバウンドアニメーション",
+      "presetNumber": 19,
+      "aliases": [
+        "GVM_019_弾む見出し_ぷるん.wav"
+      ],
+      "seed": "4839638549528047387"
+    },
+    {
+      "id": "sfx-d7b85a2df1dbf2ae9aebd1d399c6a37d",
+      "name": "飛び出し（ピョコッ）.wav",
+      "category": "ポップアップ・出現",
+      "duration": 0.36,
+      "sizeBytes": 103724,
+      "sha256": "3600f5befb3ebf52431a90eef268499c66fbff6680c349792868791e4b061112",
+      "description": "かわいいイラストの飛び出し",
+      "presetNumber": 20,
+      "aliases": [
+        "GVM_020_泡の出現_ぴょこっ.wav"
+      ],
+      "seed": "12441058548287893134"
+    },
+    {
+      "id": "sfx-2593499d2fcc6be376f3dc9ed655e489",
+      "name": "1.mp3",
+      "category": "画面切り替え・シーン",
+      "sha256": "afe190b3cec05704c4276d7965ad9683fd5f8fb34353c635a54ad19c53438046",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-fa1a8337a88842510546852d4ed2a3e6",
+      "name": "2.mp3",
+      "category": "画面切り替え・シーン",
+      "sha256": "6ad8d9d612add9bf8ed389947e436f610d18658451249a2d1061fb04282ee224",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-790e677d09db72b34d2cf066637a170d",
+      "name": "場面転換（スーッ）.wav",
+      "category": "画面切り替え・シーン",
+      "duration": 0.92,
+      "sizeBytes": 265004,
+      "sha256": "e0f7c651a41def769c96ff9a26e49c97475d96daa2e7ea6d92293f846fe7ce3b",
+      "description": "章の切り替えやゆっくりしたスライドに。膨らんで抜ける風音。",
+      "presetNumber": 7,
+      "aliases": [
+        "GVM_007_場面転換_スーッ.wav"
+      ]
+    },
+    {
+      "id": "sfx-c1a335d6f1aa1ba25c0a758ff7491472",
+      "name": "場面転換（穏やかな風音）.wav",
+      "category": "画面切り替え・シーン",
+      "duration": 0.96,
+      "sizeBytes": 276524,
+      "sha256": "efe6a2396e04882e90fe8ef1ac5ac1d60e8451d9b4b2087d123542cabdb5aa32",
+      "description": "解説の章や落ち着いた画面切り替え",
+      "presetNumber": 61,
+      "aliases": [
+        "GVM_061_穏やかな場面転換_エアー.wav"
+      ],
+      "seed": "5214239260597457215"
+    },
+    {
+      "id": "sfx-c45a81cf59f0649d7066bfbb967f7441",
+      "name": "章の導入（明るい上昇音）.wav",
+      "category": "画面切り替え・シーン",
+      "duration": 1.75,
+      "sizeBytes": 504044,
+      "sha256": "15f4fab606caaf5e3edbf2fcd7d8d4adf99393684289ca312e02dd976d3be3cd",
+      "description": "明るいタイトルや新しい章の導入",
+      "presetNumber": 62,
+      "aliases": [
+        "GVM_062_明るい上昇_ライザー.wav"
+      ],
+      "seed": "4579455045236984205"
+    },
+    {
+      "id": "sfx-f08734c36c3b3fbeb2f3a16d243d94a6",
+      "name": "結果発表前（低音の盛り上がり）.wav",
+      "category": "画面切り替え・シーン",
+      "duration": 1.99,
+      "sizeBytes": 573164,
+      "sha256": "7d05b74b83b272c4f1ae2793dad2599f46c3ae40f89112af49a941d7f22f8f60",
+      "description": "結論や結果を見せる前の溜め",
+      "presetNumber": 63,
+      "aliases": [
+        "GVM_063_緊張感の上昇_低音.wav"
+      ],
+      "seed": "7523060999779277128"
+    },
+    {
+      "id": "sfx-d3c208a2da5ac7846d69e92722675d01",
+      "name": "回想（逆再生風シュワーン）.wav",
+      "category": "画面切り替え・シーン",
+      "duration": 1.4,
+      "sizeBytes": 403244,
+      "sha256": "bf264aa6ff4cb17ed3f480dd7f7b1d162c60ee4c66c6094b98621a6508093ecc",
+      "description": "回想や柔らかい逆再生演出",
+      "presetNumber": 64,
+      "aliases": [
+        "GVM_064_逆再生風_シュワーン.wav"
+      ],
+      "seed": "9958515165859161392"
+    },
+    {
+      "id": "sfx-6360be501b59db27b365976306192f82",
+      "name": "締めくくり（下降するスーン）.wav",
+      "category": "画面切り替え・シーン",
+      "duration": 0.96,
+      "sizeBytes": 276524,
+      "sha256": "694d3fd5948a71eaa3016ccd15af84e0cb0f6e8353b1ed08c13dbc8cae09b133",
+      "description": "画面を引く、締めくくる動き",
+      "presetNumber": 65,
+      "aliases": [
+        "GVM_065_下降_スーン.wav"
+      ],
+      "seed": "16410495209012972501"
+    },
+    {
+      "id": "sfx-67c8e4370d11585498af6d63bf7bc1e0",
+      "name": "ズームアウト（フォーン）.wav",
+      "category": "画面切り替え・シーン",
+      "duration": 0.72,
+      "sizeBytes": 207404,
+      "sha256": "50446c7ed524b568a0abdb8981b4a698417e955f7e5f1d42a1bfea83f4114678",
+      "description": "ズームアウトで全体を見せる",
+      "presetNumber": 66,
+      "aliases": [
+        "GVM_066_ズームアウト_フォーン.wav"
+      ],
+      "seed": "17848395739711624065"
+    },
+    {
+      "id": "sfx-c47f5e6f1f519209e0b34af0e58e1b7b",
+      "name": "場面転換（電子ノイズ）.wav",
+      "category": "画面切り替え・シーン",
+      "duration": 0.78,
+      "sizeBytes": 224684,
+      "sha256": "93cccaf48a1c019d96375a39b227bf50eae107f5aeacfb8ad818e4d8b69ed3db",
+      "description": "短いデジタル風の画面切り替え",
+      "presetNumber": 67,
+      "aliases": [
+        "GVM_067_デジタル切り替え_グリッチ.wav"
+      ],
+      "seed": "6198924904865157368"
+    },
+    {
+      "id": "sfx-10f51195215591dc0a115e531b18cdbd",
+      "name": "一時停止（テープ風キュルン）.wav",
+      "category": "画面切り替え・シーン",
+      "duration": 0.89,
+      "sizeBytes": 256364,
+      "sha256": "e65afd241a96f79c1db7c109ae5f6a67801cc95fd4d363e12803271ed8b503b1",
+      "description": "場面を止めるコミカルな演出",
+      "presetNumber": 68,
+      "aliases": [
+        "GVM_068_テープ停止風_キュルン.wav"
+      ],
+      "seed": "3461731804154983951"
+    },
+    {
+      "id": "sfx-480e68a2089f53137457051b0a90e638",
+      "name": "ページ切替（パラッ）.wav",
+      "category": "画面切り替え・シーン",
+      "duration": 0.75,
+      "sizeBytes": 216044,
+      "sha256": "df629f050992b19d2f0ca302065ed6270fe5057fb37752770a13b9c4b235cdd6",
+      "description": "ページ送りや資料の切り替え",
+      "presetNumber": 69,
+      "aliases": [
+        "GVM_069_ページ風の場面転換_パラッ.wav"
+      ],
+      "seed": "14176739092430844769"
+    },
+    {
+      "id": "sfx-7f4245476acc9bcd0e3b71a14ea2313b",
+      "name": "タイトル登場（スウドン）.wav",
+      "category": "画面切り替え・シーン",
+      "duration": 1.2,
+      "sizeBytes": 345644,
+      "sha256": "3d90ceca0c4d8fac35bf3e359ba64cf16bf0109eda6983d469e43aa658c59ad8",
+      "description": "溜めを作ってタイトルを表示",
+      "presetNumber": 70,
+      "aliases": [
+        "GVM_070_タイトル登場_スウドン.wav"
+      ],
+      "seed": "13782249300099909987"
+    },
+    {
+      "id": "sfx-6738de2866a64ab06af01a1472dc77b5",
+      "name": "1.mp3",
+      "category": "銃・リロード",
+      "sha256": "7476fb285b358fc255ce0905b5a6bbb3ee7c04392d8f145ea809fcbfa088c5ff",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-732e8cf80baca2d9414c1dde92edd32f",
+      "name": "紙めくり（ペラッ）.wav",
+      "category": "小物・生活音風",
+      "duration": 0.42,
+      "sizeBytes": 121004,
+      "sha256": "db5b03e453d73dd647e78863bc60ffe4c7ebbada3f7097a267e20cdfaa1c8b17",
+      "description": "資料やページを一枚めくる",
+      "presetNumber": 91,
+      "aliases": [
+        "GVM_091_紙めくり風_ペラッ.wav"
+      ],
+      "seed": "1406758574004701863"
+    },
+    {
+      "id": "sfx-d4441f3e03cd8f80d350af1d11bbdd57",
+      "name": "紙をそろえる（ササッ）.wav",
+      "category": "小物・生活音風",
+      "duration": 0.59,
+      "sizeBytes": 169964,
+      "sha256": "1d77ea607c170fe8ff786fb8bb70dadeb526b99babe80a61fd9d39629a128544",
+      "description": "資料やカードを整理する",
+      "presetNumber": 92,
+      "aliases": [
+        "GVM_092_紙をそろえる風_ササッ.wav"
+      ],
+      "seed": "13580222252090078960"
+    },
+    {
+      "id": "sfx-2ab5179d99ac5d50ca5c51f7f3e38161",
+      "name": "カード配り（シュタッ）.wav",
+      "category": "小物・生活音風",
+      "duration": 0.31,
+      "sizeBytes": 89324,
+      "sha256": "902bef6b78dbeb07f9001bbfdc51df3be7de91f9132633674c9235a75b281750",
+      "description": "カードや写真を並べる",
+      "presetNumber": 93,
+      "aliases": [
+        "GVM_093_カード配り風_シュタッ.wav"
+      ],
+      "seed": "18152439277811501533"
+    },
+    {
+      "id": "sfx-7531c47ead2f6c81701edacbadb8c563",
+      "name": "鉛筆で叩く（コツコツ）.wav",
+      "category": "小物・生活音風",
+      "duration": 0.39,
+      "sizeBytes": 112364,
+      "sha256": "1bd71cce5709ee2f81b4e3bbbb6dc154476747122cadcbe065dad14f2fe9d553",
+      "description": "考え中の手元や軽いノック",
+      "presetNumber": 94,
+      "aliases": [
+        "GVM_094_鉛筆タップ風_コツコツ.wav"
+      ],
+      "seed": "17883245765729588197"
+    },
+    {
+      "id": "sfx-fde99e6e2d62d0813ec2d9b09611d757",
+      "name": "キー入力（3打）.wav",
+      "category": "小物・生活音風",
+      "duration": 0.33,
+      "sizeBytes": 95084,
+      "sha256": "46825ee126221a2cfaf9148148ee0d9d0ad0d39a44370a22f3862abdb0564b9f",
+      "description": "検索語や短い文字入力",
+      "presetNumber": 95,
+      "aliases": [
+        "GVM_095_キー入力風_三文字.wav"
+      ],
+      "seed": "11754038298542368459"
+    },
+    {
+      "id": "sfx-27abe8ea2870d32422dbf33528b73238",
+      "name": "タイピング（短い連打）.wav",
+      "category": "小物・生活音風",
+      "duration": 0.68,
+      "sizeBytes": 195884,
+      "sha256": "842e17e5ec533851831eed5df083761ceb34d690e609e1beb9592963ea2b7372",
+      "description": "説明動画のキーボード入力",
+      "presetNumber": 96,
+      "aliases": [
+        "GVM_096_タイピング風_短い文章.wav"
+      ],
+      "seed": "7356502354361054348"
+    },
+    {
+      "id": "sfx-cab6953051e8e1a05b885b50d8617a97",
+      "name": "水滴（ピチョン）.wav",
+      "category": "小物・生活音風",
+      "duration": 0.48,
+      "sizeBytes": 138284,
+      "sha256": "caa2a562d75b9172eb5010fbc7f8d781cb1af042e1ffb5aa8ecbdbbd14b36cab",
+      "description": "水滴や透明なアイコンの出現",
+      "presetNumber": 97,
+      "aliases": [
+        "GVM_097_水滴風_ピチョン.wav"
+      ],
+      "seed": "6590655647738513271"
+    },
+    {
+      "id": "sfx-140d0e5a64b95248dcaa14399486acde",
+      "name": "泡（ポコポコ）.wav",
+      "category": "小物・生活音風",
+      "duration": 0.61,
+      "sizeBytes": 175724,
+      "sha256": "84c26fe67b19a09e0ca7b3b834f265086f38e0a2bb0150721622a4910f170369",
+      "description": "泡や水中風のかわいい動き",
+      "presetNumber": 98,
+      "aliases": [
+        "GVM_098_泡風_ポコポコ.wav"
+      ],
+      "seed": "11725484964481237483"
+    },
+    {
+      "id": "sfx-99ede02c16091abe116f130492129688",
+      "name": "小物を振る（シャラッ）.wav",
+      "category": "小物・生活音風",
+      "duration": 0.45,
+      "sizeBytes": 129644,
+      "sha256": "b2a3bdfa20d94f5a048ea81c375219dc2070cc053507b3ff61dcbfd540bf8d18",
+      "description": "小物を振る、軽いリズムを付ける",
+      "presetNumber": 99,
+      "aliases": [
+        "GVM_099_小さな振り音_シャラッ.wav"
+      ],
+      "seed": "16362212181689255657"
+    },
+    {
+      "id": "sfx-aed8e662b7900e2961d4b226c837ae54",
+      "name": "写真切替（フィルム風カシャコ）.wav",
+      "category": "小物・生活音風",
+      "duration": 0.33,
+      "sizeBytes": 95084,
+      "sha256": "8f380b5da66c6b8d21611e0805e1c5acd044917254fe706048ba217c4810c987",
+      "description": "写真の切り替えや記録する演出",
+      "presetNumber": 100,
+      "aliases": [
+        "GVM_100_フィルム送り風_カシャコ.wav"
+      ],
+      "seed": "10520716320148072444"
+    },
+    {
+      "id": "sfx-6219e49060e1e173c0249ec313df3c10",
+      "name": "正解（キラリン）.wav",
+      "category": "正解・失敗・リアクション",
+      "duration": 0.94,
+      "sizeBytes": 270764,
+      "sha256": "dcaf9154351d07b64a445017a693c40c3f3e1a199de6d455c3d0042c591d6d64",
+      "description": "正解、達成、手順完了に。明るい二音のチャイム。",
+      "presetNumber": 4,
+      "aliases": [
+        "GVM_004_正解_キラリン.wav"
+      ]
+    },
+    {
+      "id": "sfx-73a7ea27df302d3fe8c06973b4a70962",
+      "name": "不正解（ブブッ）.wav",
+      "category": "正解・失敗・リアクション",
+      "duration": 0.49,
+      "sizeBytes": 141164,
+      "sha256": "89888b57dec32d5d608bd7c891cfa47f92173493cd2da082bbf430eea84ec9dd",
+      "description": "失敗、NG例、軽いツッコミに。耳当たりを抑えた二連ブザー。",
+      "presetNumber": 5,
+      "aliases": [
+        "GVM_005_不正解_ブブッ.wav"
+      ]
+    },
+    {
+      "id": "sfx-f43ef8989c50b8cbbe1298ea54ab341a",
+      "name": "疑問（ポヨン）.wav",
+      "category": "正解・失敗・リアクション",
+      "duration": 0.62,
+      "sizeBytes": 178604,
+      "sha256": "75715582fa07a93adcc11d39543c14755df1922b78c7884ab6fab760e551eab3",
+      "description": "疑問符、意外な展開、軽いボケに。音程が弾むコミカルな音。",
+      "presetNumber": 10,
+      "aliases": [
+        "GVM_010_疑問_ポヨン.wav"
+      ]
+    },
+    {
+      "id": "sfx-5511b433d90430b5ef6c04a8282ba96d",
+      "name": "正解（ピンポン）.wav",
+      "category": "正解・失敗・リアクション",
+      "duration": 0.86,
+      "sizeBytes": 247724,
+      "sha256": "8e9201a54d099c8a8e3e035fa95512dcda592d48e1466911fb94ba25d694796a",
+      "description": "クイズや説明の正解表示",
+      "presetNumber": 41,
+      "aliases": [
+        "GVM_041_正解_ピンポン.wav"
+      ],
+      "seed": "256544161200597064"
+    },
+    {
+      "id": "sfx-1238699d8e047a449a44da9d0aeebcf0",
+      "name": "達成（パラリン）.wav",
+      "category": "正解・失敗・リアクション",
+      "duration": 1.09,
+      "sizeBytes": 313964,
+      "sha256": "68a24e1186b7431b54655771a24828279d7c7ce237e2ae60c06ed745e526ecd2",
+      "description": "目標達成や小さな成功",
+      "presetNumber": 42,
+      "aliases": [
+        "GVM_042_達成_パラリン.wav"
+      ],
+      "seed": "14509586665495553966"
+    },
+    {
+      "id": "sfx-9a16c32a26c92dc85184b293e2ba722e",
+      "name": "お祝い（明るい和音）.wav",
+      "category": "正解・失敗・リアクション",
+      "duration": 1.3,
+      "sizeBytes": 374444,
+      "sha256": "cb8f45f00978b85df7e8d9248696012650772e61a9e719aac71f1a19e8b7fa28",
+      "description": "おめでとうや結果発表",
+      "presetNumber": 43,
+      "aliases": [
+        "GVM_043_お祝い_明るい和音.wav"
+      ],
+      "seed": "4111147896718958076"
+    },
+    {
+      "id": "sfx-dbc18915886f23094a31e19af4751768",
+      "name": "不正解（低いブブッ）.wav",
+      "category": "正解・失敗・リアクション",
+      "duration": 0.61,
+      "sizeBytes": 175724,
+      "sha256": "49241dd241d2e061a5dcb6abf1b15344a4425991855c96610d120efa40ca049e",
+      "description": "軽い失敗やNGの説明",
+      "presetNumber": 44,
+      "aliases": [
+        "GVM_044_不正解_低いブブッ.wav"
+      ],
+      "seed": "6546147428847711739"
+    },
+    {
+      "id": "sfx-60d884f980c5ee6e16d0adb0e781518b",
+      "name": "残念（プワーン）.wav",
+      "category": "正解・失敗・リアクション",
+      "duration": 0.83,
+      "sizeBytes": 239084,
+      "sha256": "9f0c6ce1ced35b80d6eb0817bb7952fde56ac4c218b8210ac894ab6ffaf7c1b1",
+      "description": "残念な結果をコミカルに見せる",
+      "presetNumber": 45,
+      "aliases": [
+        "GVM_045_残念_プワーン.wav"
+      ],
+      "seed": "2143799028997854933"
+    },
+    {
+      "id": "sfx-03650c8dec107b56081e06c8b45e4c29",
+      "name": "疑問（ヒョイン）.wav",
+      "category": "正解・失敗・リアクション",
+      "duration": 0.58,
+      "sizeBytes": 167084,
+      "sha256": "259ad0498b21a91c38867d37cf650041c6b9b005314b916b68754b1c814a2e03",
+      "description": "疑問符や意外な説明",
+      "presetNumber": 46,
+      "aliases": [
+        "GVM_046_疑問_ひょいん.wav"
+      ],
+      "seed": "2622618189052656391"
+    },
+    {
+      "id": "sfx-c44a11e2bd62d18b3521dd41ae0f2402",
+      "name": "驚き（キュピッ）.wav",
+      "category": "正解・失敗・リアクション",
+      "duration": 0.41,
+      "sizeBytes": 118124,
+      "sha256": "3446e5bcb76698eb1d2b43a756b5f20de3ea254a81f94fbc4aff55a5b6e67c1c",
+      "description": "小さな驚きや発見",
+      "presetNumber": 47,
+      "aliases": [
+        "GVM_047_驚き_きゅぴっ.wav"
+      ],
+      "seed": "1453365916572262348"
+    },
+    {
+      "id": "sfx-7639e76446e615cb25843f0312ceb748",
+      "name": "困惑（揺れる音）.wav",
+      "category": "正解・失敗・リアクション",
+      "duration": 0.95,
+      "sizeBytes": 273644,
+      "sha256": "cfbe337f4275d4ede4a0ae07b4d38b358405357598b408f5b8ffda1f52081898",
+      "description": "迷いや困った表情の演出",
+      "presetNumber": 48,
+      "aliases": [
+        "GVM_048_困惑_ゆらゆら.wav"
+      ],
+      "seed": "15121301606264452192"
+    },
+    {
+      "id": "sfx-e43c6a6386a4cdb76e689ab1d6192545",
+      "name": "ツッコミ（バネのビヨン）.wav",
+      "category": "正解・失敗・リアクション",
+      "duration": 0.84,
+      "sizeBytes": 241964,
+      "sha256": "c83bab6a8c788e764d6cb9178f946f3373d67578485a894f87eb1bb1d0ebab35",
+      "description": "コミカルなツッコミや跳ね返り",
+      "presetNumber": 49,
+      "aliases": [
+        "GVM_049_バネのツッコミ_びよん.wav"
+      ],
+      "seed": "1059147409066441545"
+    },
+    {
+      "id": "sfx-afd7a74f8ac580fe61115733fddffc26",
+      "name": "リアクション（3連ポヨポヨ）.wav",
+      "category": "正解・失敗・リアクション",
+      "duration": 0.74,
+      "sizeBytes": 213164,
+      "sha256": "b4d8156062a316b9bc684b919a2f90cb51d3a8feef3f8029a2defb3d21bf2dd7",
+      "description": "三段階のリアクションや軽いボケ",
+      "presetNumber": 50,
+      "aliases": [
+        "GVM_050_連続リアクション_ぽよぽよ.wav"
+      ],
+      "seed": "6791825228159981656"
+    },
+    {
+      "id": "sfx-d3345c844aabed393d911ced2e5c8169",
+      "name": "1.mp3",
+      "category": "太鼓・ドラム",
+      "sha256": "398b69b645910b6a593182265b1520866c2330684e27817ba9a85428c1e16864",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-78a1c9ac1b14ef7b8d3729fe12573163",
+      "name": "2.mp3",
+      "category": "太鼓・ドラム",
+      "sha256": "c30b3325269a39463de71ea7f29b98fb36a04e7d2d22b0ab4569d5b38d7a9c8d",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-03286105e27f9bccaa68a1c10cff9dcf",
+      "name": "1.mp3",
+      "category": "打撃・ヒット",
+      "sha256": "aa5ae3ee606e5464e021295bdfaba993b0235ffc16498060352952b0e55718d4",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-78066a09b3854ec8d809a46ede05dede",
+      "name": "強調（ドン）.wav",
+      "category": "打撃・ヒット",
+      "duration": 0.7,
+      "sizeBytes": 201644,
+      "sha256": "319d3332269784d0e425c6688f5e56a3a6c7809d3ea55f622d8edea2d2faab72",
+      "description": "重要ワード、結論、タイトルの強調に。低音と打撃感のある一発。",
+      "presetNumber": 8,
+      "aliases": [
+        "GVM_008_強調_ドン.wav"
+      ]
+    },
+    {
+      "id": "sfx-acd921059bf0eda636030553115d947c",
+      "name": "パンチ（柔らかいボフッ）.wav",
+      "category": "打撃・ヒット",
+      "duration": 0.46,
+      "sizeBytes": 132524,
+      "sha256": "7905a619ff14f038ef116efc9df428985e4902ebaa56f1783b312b0b30084b6d",
+      "description": "軽い衝撃やコミカルな接触",
+      "presetNumber": 71,
+      "aliases": [
+        "GVM_071_柔らかいパンチ_ボフッ.wav"
+      ],
+      "seed": "15334059036151784805"
+    },
+    {
+      "id": "sfx-005809889812cfdf7adb16d9930cb0b8",
+      "name": "タイトル強調（重いドーン）.wav",
+      "category": "打撃・ヒット",
+      "duration": 1.12,
+      "sizeBytes": 322604,
+      "sha256": "7023ab3a3b0fe5bbb30176925278b918c3f0661720058284bbb778d21cc00ecc",
+      "description": "大きなタイトルや重大発表",
+      "presetNumber": 72,
+      "aliases": [
+        "GVM_072_重いタイトル_ドーン.wav"
+      ],
+      "seed": "169178354191051435"
+    },
+    {
+      "id": "sfx-ff1590caac4d419905f205d9d5653168",
+      "name": "打撃（硬いゴッ）.wav",
+      "category": "打撃・ヒット",
+      "duration": 0.31,
+      "sizeBytes": 89324,
+      "sha256": "a26e1ed976711fb10aca633019156e3b48fddc84d943bb0effc8712dd030d231",
+      "description": "硬い物に当たる短い衝撃",
+      "presetNumber": 73,
+      "aliases": [
+        "GVM_073_硬いヒット_ゴッ.wav"
+      ],
+      "seed": "11889994656814013856"
+    },
+    {
+      "id": "sfx-5850726a8283c1823acfda8c18d39023",
+      "name": "強調（明るいパシャン）.wav",
+      "category": "打撃・ヒット",
+      "duration": 0.55,
+      "sizeBytes": 158444,
+      "sha256": "1ad2d8148ef89475dd959d9d697588d342e12c83ce028fbc4102c39e38b9ca3c",
+      "description": "明るい強調や派手な表示",
+      "presetNumber": 74,
+      "aliases": [
+        "GVM_074_明るいアクセント_パシャン.wav"
+      ],
+      "seed": "74589284282139121"
+    },
+    {
+      "id": "sfx-02552bd3fab540d206eb969ed64b7105",
+      "name": "打撃（金属のカーン）.wav",
+      "category": "打撃・ヒット",
+      "duration": 1.04,
+      "sizeBytes": 299564,
+      "sha256": "8ce3a97068711018467bff382bffe565216068913d1ea53116ad5293632c7598",
+      "description": "金属風の強調や打撃",
+      "presetNumber": 75,
+      "aliases": [
+        "GVM_075_金属ヒット_カーン.wav"
+      ],
+      "seed": "10345925202233305923"
+    },
+    {
+      "id": "sfx-9e9d16ede5567bc4427722cc3c1c8d6c",
+      "name": "太鼓（低いドム）.wav",
+      "category": "打撃・ヒット",
+      "duration": 0.66,
+      "sizeBytes": 190124,
+      "sha256": "9879ad53cead2782df3fb83410ac5ebfb022e2542e42ceac2bfefe5c9dcf0534",
+      "description": "テンポを付ける低い打音",
+      "presetNumber": 76,
+      "aliases": [
+        "GVM_076_低い太鼓_ドム.wav"
+      ],
+      "seed": "13080661893428111462"
+    },
+    {
+      "id": "sfx-7524f91ff66ca40a78f413aba94fe0a9",
+      "name": "ドラム（スネアのタン）.wav",
+      "category": "打撃・ヒット",
+      "duration": 0.45,
+      "sizeBytes": 129644,
+      "sha256": "086333597272c206144cf98d52d57d9105facf1b92b12e298ff74be29d8589e7",
+      "description": "場面や文字にリズムを付ける",
+      "presetNumber": 77,
+      "aliases": [
+        "GVM_077_スネア風_タン.wav"
+      ],
+      "seed": "9454905533921234975"
+    },
+    {
+      "id": "sfx-63b92fd4dae2ab4f8fab166035936df3",
+      "name": "手拍子（1回パチン）.wav",
+      "category": "打撃・ヒット",
+      "duration": 0.38,
+      "sizeBytes": 109484,
+      "sha256": "8be74f33f42b268f1a136a42c7303174f970708881e1632b2fadbec00b8f38a8",
+      "description": "一回の手拍子や軽快なアクセント",
+      "presetNumber": 78,
+      "aliases": [
+        "GVM_078_手拍子風_パチン.wav"
+      ],
+      "seed": "2145940758539051422"
+    },
+    {
+      "id": "sfx-57e7013210d770d74117d06705d5e7bc",
+      "name": "軽い接触（こもったトン）.wav",
+      "category": "打撃・ヒット",
+      "duration": 0.36,
+      "sizeBytes": 103724,
+      "sha256": "517aae7a1d995eb99a41b52f81ff764fb612104b65864349e4402ff3114d3fe7",
+      "description": "落ち着いた字幕や小さな接触",
+      "presetNumber": 79,
+      "aliases": [
+        "GVM_079_こもった打音_トン.wav"
+      ],
+      "seed": "6523254961022301321"
+    },
+    {
+      "id": "sfx-d069c613eda6cc2c4aeaf4587ba59539",
+      "name": "強調（2連ドドン）.wav",
+      "category": "打撃・ヒット",
+      "duration": 0.56,
+      "sizeBytes": 161324,
+      "sha256": "dd6212d1fb1fc3ea772786515869df2cfe090482d8f97b65b2f48d95808a14a7",
+      "description": "二段構成の強調や登場",
+      "presetNumber": 80,
+      "aliases": [
+        "GVM_080_二連ノック_ドドン.wav"
+      ],
+      "seed": "10374232051022790252"
+    },
+    {
+      "id": "sfx-c0b3d227331fb9c711f9270c476a9ee5",
+      "name": "1.mp3",
+      "category": "跳ねる・バウンド",
+      "sha256": "660a79ce2632a9078c95721c078a8837e8e879b527b484901bed001e5351706a",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-ad0c71455dca92a9ea7fde36817b0e21",
+      "name": "通知（ピコン）.wav",
+      "category": "通知・チャイム",
+      "duration": 0.69,
+      "sizeBytes": 198764,
+      "sha256": "6ff8dc460b6a02785d8ebe2b09b8f4d44fa6db268d819b7402ccd6a9a21e29dc",
+      "description": "メッセージ表示や注目ポイントに。丸みのある二段の通知音。",
+      "presetNumber": 3,
+      "aliases": [
+        "GVM_003_通知_ピコン.wav"
+      ]
+    },
+    {
+      "id": "sfx-15aa50bea3172ae46a2b2348b2184c67",
+      "name": "通知（小さなポーン）.wav",
+      "category": "通知・チャイム",
+      "duration": 0.84,
+      "sizeBytes": 241964,
+      "sha256": "dd25c72dbb4951c3b9ebbd929c5ef1c3cbf729455baceddfa828d211574b1103",
+      "description": "邪魔になりにくい一音の通知",
+      "presetNumber": 31,
+      "aliases": [
+        "GVM_031_小さな通知_ポーン.wav"
+      ],
+      "seed": "5305373395684037078"
+    },
+    {
+      "id": "sfx-8bac0d9bb7c95ae4abf5fd07eebc6ba2",
+      "name": "通知（ガラスのチリン）.wav",
+      "category": "通知・チャイム",
+      "duration": 0.99,
+      "sizeBytes": 285164,
+      "sha256": "86067af50a745831ba44ef2d03c2039ff726b3633da837db92d75f3cd32d8a8f",
+      "description": "明るいメッセージ通知",
+      "presetNumber": 32,
+      "aliases": [
+        "GVM_032_ガラスの通知_チリン.wav"
+      ],
+      "seed": "8939728260662915900"
+    },
+    {
+      "id": "sfx-98aa350b2c94ea4b942fa0ca46acfd1c",
+      "name": "メッセージ（3音ピポリン）.wav",
+      "category": "通知・チャイム",
+      "duration": 0.9,
+      "sizeBytes": 259244,
+      "sha256": "98392158ea1bcbd9a011f4aa1eb4c85872ffcbba00ebf8e17391666dadb01475",
+      "description": "会話や情報が届く演出",
+      "presetNumber": 33,
+      "aliases": [
+        "GVM_033_三音メッセージ_ピポリン.wav"
+      ],
+      "seed": "14798573131723320825"
+    },
+    {
+      "id": "sfx-4587709901a6ef6853e761d611fb9c1d",
+      "name": "通知（木琴のコロリン）.wav",
+      "category": "通知・チャイム",
+      "duration": 0.82,
+      "sizeBytes": 236204,
+      "sha256": "c218b06e09bb0cce57ce4fa163b46ad83bb770f006da90fae5844982a7ce8a50",
+      "description": "柔らかい雰囲気の通知",
+      "presetNumber": 34,
+      "aliases": [
+        "GVM_034_木琴通知_コロリン.wav"
+      ],
+      "seed": "17989713045660813038"
+    },
+    {
+      "id": "sfx-644af0ba6c304f4e781aefc0c44706f3",
+      "name": "通知（控えめなトロン）.wav",
+      "category": "通知・チャイム",
+      "duration": 0.9,
+      "sizeBytes": 259244,
+      "sha256": "b4f1ee99384086246f5ee349a1ecac02aa5e5caf4e53669c221db418885f35a6",
+      "description": "ナレーション中の控えめな注目",
+      "presetNumber": 35,
+      "aliases": [
+        "GVM_035_控えめな通知_トロン.wav"
+      ],
+      "seed": "13312051819387356013"
+    },
+    {
+      "id": "sfx-03c0c729aa7a49fdaa2895d33dbc6905",
+      "name": "呼び出し（ベルのティロン）.wav",
+      "category": "通知・チャイム",
+      "duration": 1.4,
+      "sizeBytes": 403244,
+      "sha256": "1be06bb373a48b5c9a6314d37b5f2e728cc2e5939af2ed9106bbfabdec9f8a3b",
+      "description": "呼び出しや会話開始の合図",
+      "presetNumber": 36,
+      "aliases": [
+        "GVM_036_呼び出しベル_ティロン.wav"
+      ],
+      "seed": "10555127832186695620"
+    },
+    {
+      "id": "sfx-352b6436282078488a9f15f6a55a8c07",
+      "name": "注意喚起（2音ピポッ）.wav",
+      "category": "通知・チャイム",
+      "duration": 0.7,
+      "sizeBytes": 201644,
+      "sha256": "c77a84423dbc4606b1f7f6a9f617f7348bbd6b068866d2c6b87775e1cf704405",
+      "description": "強すぎない注意喚起",
+      "presetNumber": 37,
+      "aliases": [
+        "GVM_037_注意の二音_ピポッ.wav"
+      ],
+      "seed": "7779500584104486998"
+    },
+    {
+      "id": "sfx-0f1b201e3fd497c4706107caf4b92e37",
+      "name": "タイマー（3連ピッ）.wav",
+      "category": "通知・チャイム",
+      "duration": 0.99,
+      "sizeBytes": 285164,
+      "sha256": "b7dfcfbe87a67f298014a12121e145671962570324b1df72cf69490186ad9ff3",
+      "description": "短い待ち時間や時間切れの合図",
+      "presetNumber": 38,
+      "aliases": [
+        "GVM_038_タイマー_ピッピッピッ.wav"
+      ],
+      "seed": "3045460422731241866"
+    },
+    {
+      "id": "sfx-864d031b005dc22a8abb61636979634c",
+      "name": "処理完了（ティロリロン）.wav",
+      "category": "通知・チャイム",
+      "duration": 1.07,
+      "sizeBytes": 308204,
+      "sha256": "6406decdcedd3968f462951df54bc0b6e1c6676f85f337a404379aa457c11e4a",
+      "description": "読み込みや作業の完了",
+      "presetNumber": 39,
+      "aliases": [
+        "GVM_039_処理完了_ティロリロン.wav"
+      ],
+      "seed": "7696885450204954926"
+    },
+    {
+      "id": "sfx-f9fe79f56bb9e7e42ecedfcabe04a86d",
+      "name": "お知らせ（柔らかいルロン）.wav",
+      "category": "通知・チャイム",
+      "duration": 1.08,
+      "sizeBytes": 311084,
+      "sha256": "07cd20b1fa3e39d96da61c2faa0b236965182d1f92d27051fa73a37bdec816b7",
+      "description": "落ち着いたお知らせ表示",
+      "presetNumber": 40,
+      "aliases": [
+        "GVM_040_柔らかいお知らせ_ルロン.wav"
+      ],
+      "seed": "10786812684104346301"
+    },
+    {
+      "id": "sfx-fb4e261119be5aebcb96124311aaea7b",
+      "name": "1.mp3",
+      "category": "拍手・手拍子",
+      "sha256": "07475e192221887429f46687c9f9a272c09007b0eadc344f43a60815aef0356f",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-cc145b622c0db8fa1e0dc8602a51bb4d",
+      "name": "1.mp3",
+      "category": "風切り音・スイング",
+      "sha256": "a65f45d20175e46e4b75a766088b0253c180e55805cab10e64bdc8e736d8d88f",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-8b62942d982e6cf5ab6ca4bf919d9d96",
+      "name": "スライド切替（シュッ）.wav",
+      "category": "風切り音・スイング",
+      "duration": 0.42,
+      "sizeBytes": 121004,
+      "sha256": "b22c2646ba420998d0a9bef97edf5436beac5572f97d0ed345f28f9f78280451",
+      "description": "素早いカットやスライド、矢印の移動に。短く鋭い風切り音。",
+      "presetNumber": 6,
+      "aliases": [
+        "GVM_006_切り替え_シュッ.wav"
+      ]
+    },
+    {
+      "id": "sfx-b8748d7efec3d6e4c8f6f62c8f8dfead",
+      "name": "横移動（左から右へ）.wav",
+      "category": "風切り音・スイング",
+      "duration": 0.39,
+      "sizeBytes": 112364,
+      "sha256": "2431efa97575d0645de42b69ecfdb09626a50637325c78837e1fa765067404a9",
+      "description": "文字や図形が左から右へ移動",
+      "presetNumber": 51,
+      "aliases": [
+        "GVM_051_横切り_左から右.wav"
+      ],
+      "seed": "5819368106549914124"
+    },
+    {
+      "id": "sfx-5079513ca0fb3fbf329f291bf3f89137",
+      "name": "横移動（右から左へ）.wav",
+      "category": "風切り音・スイング",
+      "duration": 0.45,
+      "sizeBytes": 129644,
+      "sha256": "c9d69a222cc76bf9f55c680caf395f5db10fa578803539f609bc4edf09a5dcec",
+      "description": "文字や図形が右から左へ移動",
+      "presetNumber": 52,
+      "aliases": [
+        "GVM_052_横切り_右から左.wav"
+      ],
+      "seed": "6885177559041315499"
+    },
+    {
+      "id": "sfx-689a8f56ffacf2fc9f908f9ad2444d7b",
+      "name": "高速移動（軽いヒュッ）.wav",
+      "category": "風切り音・スイング",
+      "duration": 0.3,
+      "sizeBytes": 86444,
+      "sha256": "cba90f1c21469f166b9f65af80e5cb3f8c83687c51c244e05cbfb71812928255",
+      "description": "小さな要素の素早い移動",
+      "presetNumber": 53,
+      "aliases": [
+        "GVM_053_軽い風_ヒュッ.wav"
+      ],
+      "seed": "296007522944685900"
+    },
+    {
+      "id": "sfx-45ffad1da208fb083b1c3205372bf185",
+      "name": "スイング（重いブンッ）.wav",
+      "category": "風切り音・スイング",
+      "duration": 0.51,
+      "sizeBytes": 146924,
+      "sha256": "55a5b742e1e8d7735a01c688cc56ec9cfa31412508d4393075c0374393bdfe64",
+      "description": "大きな図形や力強いスイング",
+      "presetNumber": 54,
+      "aliases": [
+        "GVM_054_重い風_ブンッ.wav"
+      ],
+      "seed": "3488700980109758934"
+    },
+    {
+      "id": "sfx-3918b47b07aad7c74ab42be74db3381a",
+      "name": "振り抜き（ムチのヒュパン）.wav",
+      "category": "風切り音・スイング",
+      "duration": 0.41,
+      "sizeBytes": 118124,
+      "sha256": "6358c20115dab8ae8798f388792b663067a32f0292ee033411e35e687b4fc844",
+      "description": "素早い振り抜きの演出",
+      "presetNumber": 55,
+      "aliases": [
+        "GVM_055_ムチ風_ヒュパン.wav"
+      ],
+      "seed": "15557825993966602545"
+    },
+    {
+      "id": "sfx-28a31230622c5a2f0ac42a76c834a550",
+      "name": "スワイプ（2連シュシュッ）.wav",
+      "category": "風切り音・スイング",
+      "duration": 0.54,
+      "sizeBytes": 155564,
+      "sha256": "a211e3d27097f3bca4f9ecb0bddacb16269c92ae78e50f010131ac6e69cd188e",
+      "description": "二段階のスライド切り替え",
+      "presetNumber": 56,
+      "aliases": [
+        "GVM_056_二連スワイプ_シュシュッ.wav"
+      ],
+      "seed": "10977986657220283991"
+    },
+    {
+      "id": "sfx-254c08dfee5618a43f7a0d6403fb5337",
+      "name": "回転（シュルル）.wav",
+      "category": "風切り音・スイング",
+      "duration": 0.72,
+      "sizeBytes": 207404,
+      "sha256": "24ee3b0dbbcd6c09b79c7b9359e4ef1105bcba14a58aa804edcbbd759fddc1a5",
+      "description": "回転や渦を描くアニメーション",
+      "presetNumber": 57,
+      "aliases": [
+        "GVM_057_回転_シュルル.wav"
+      ],
+      "seed": "1512917258323304104"
+    },
+    {
+      "id": "sfx-e31c29367e6cad6c12f9b8e836a70b34",
+      "name": "ズームイン（短い風切り音）.wav",
+      "category": "風切り音・スイング",
+      "duration": 0.34,
+      "sizeBytes": 97964,
+      "sha256": "72a7a202b48871903d248965b8295443f50a06ccc3d824a2dbafcf723a8624ab",
+      "description": "短いズームや拡大",
+      "presetNumber": 58,
+      "aliases": [
+        "GVM_058_高速ズーム_ジップ.wav"
+      ],
+      "seed": "6001602205291821404"
+    },
+    {
+      "id": "sfx-8657288889be31751469178e2c67f101",
+      "name": "払いのけ（ブラシのサッ）.wav",
+      "category": "風切り音・スイング",
+      "duration": 0.37,
+      "sizeBytes": 106604,
+      "sha256": "b2b96948079cebb95653106eff1594714517c8ed6721751c8dea8f36dc25f88a",
+      "description": "線を引く、軽く払う動き",
+      "presetNumber": 59,
+      "aliases": [
+        "GVM_059_ブラシ風_サッ.wav"
+      ],
+      "seed": "7673547237632937240"
+    },
+    {
+      "id": "sfx-f19d782bcd79fcd6ff3ba9b001062bed",
+      "name": "吸い込み（スヒュッ）.wav",
+      "category": "風切り音・スイング",
+      "duration": 0.58,
+      "sizeBytes": 167084,
+      "sha256": "a410347806a2209e4572fb43f3f4d7308e3cbef579cc277625d157b55d052baf",
+      "description": "消える文字や吸い込む動き",
+      "presetNumber": 60,
+      "aliases": [
+        "GVM_060_吸い込み_スヒュッ.wav"
+      ],
+      "seed": "6410430189956937652"
+    },
+    {
+      "id": "sfx-05dc2b525c3d59ea1e47a76d0f004ca5",
+      "name": "1.mp3",
+      "category": "本・紙",
+      "sha256": "557281c9963cbb1cb904cd299ebce4cdaf47172a2774fc3325e2a5b37942266e",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-5f6a1f67bb6195604c1f9b94d2dcfab9",
+      "name": "2.mp3",
+      "category": "本・紙",
+      "sha256": "e5a7dcdf580c55f6ab9b7af79793fc3d5d333bdb2b4549cc8838faf3038bbc5a",
+      "legacyName": true
+    },
+    {
+      "id": "sfx-421b3c7c4ccded78d1272c376a7ebf7d",
+      "name": "3.mp3",
+      "category": "本・紙",
+      "sha256": "1e425b83e8e485b3ede2e64fe5529390191394cd9501af184afd89595eb2f299",
+      "legacyName": true
+    }
+  ]
+}
